@@ -12406,14 +12406,13 @@ html:not(.mobile) .owl-animate-fadeInDown{
 
 
 .top-heading-left{
+    position: absolute;
+    left: 0px;
     background-color:#c26940;
     color:#ffffff;
     font-weight: 600;
     height:80px;
     width:50%;
-    margin: 0px;
-    /* float: right; */
-    text-align: center;
 }
 
 .top-heading-left h2{
@@ -12428,7 +12427,6 @@ html:not(.mobile) .owl-animate-fadeInDown{
     font-weight: 600;
     height:80px;
     width:50%;
-    /* margin: 0px; */
     float: right;
 
 }
