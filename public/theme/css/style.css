@@ -3502,7 +3502,7 @@ html:not(.mobile) .wow-p{
 .nav-logo-wrap .logo{
     display: flex;
     align-items: center;
-    max-width: 200px;
+    max-width: 300px;
     height: var(--menu-bar-height);
     transition: all 0.2s cubic-bezier(0.000, 0.000, 0.580, 1.000);
 }
@@ -12435,6 +12435,10 @@ html:not(.mobile) .owl-animate-fadeInDown{
     text-align: center;
 }
 
+.post-prev-title{
+    text-align: center;
+}
+
 .portfolio-5-title{
     text-align: center;
     color:#1A383C;
@@ -12444,6 +12448,9 @@ html:not(.mobile) .owl-animate-fadeInDown{
 .portfolio-2-title{
     color:#1A383C !important;
     font-weight: 800;
+}
+.text-white{
+    color:#ffffff !important;
 }
 
 @media only screen and (max-width: 540px) {

@@ -57,7 +57,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                     image size for support of retina screens. See details in the template documentation. *) -->
                     <div class="nav-logo-wrap local-scroll">
                         <a href="#top" class="logo font-alt">
-                            <img src="{{asset('theme/images/logo-white.svg')}}" alt="Your Company Logo" width="105" height="34">
+                            <img src="{{asset('uploads/BFL-Logo.png')}}" alt="BFL Logo"  >
                         </a>
                     </div>
 
@@ -70,12 +70,26 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                     <!-- Main Menu -->
                     <div class="inner-nav desktop-nav">
                         <ul class="clearlist scroll-nav local-scroll">
-                            <li><a href="#home" class="active">Home</a></li>
+                            {{-- <li><a href="#home" class="active">Home</a></li> --}}
                             <li><a href="#about">Who We Are</a></li>
                             <li><a href="#programs">Programs</a></li>
                             <li><a href="#portfolio">Impact Stories</a></li>
                             <li><a href="#blog">News Updates</a></li>
                             <li><a href="#contact">Contact</a></li>
+
+
+                            <li class="desktop-nav-display">
+                                <div class="vr mt-2"></div>
+                            </li>
+
+                            {{-- <li><a class="text-white" href="tel:+18376528800"><i class="mi-mobile size-24 color-primary-1 align-center text-white"></i> +254 (723) 014 032</a></li> --}}
+
+                            <!-- Social Links -->
+                            <li>
+                                <a href="#" class="no-hover opacity-1 pe-1 text-white"><span class="mn-soc-link mn-soc-link-color text-white" title="Facebook"><i class="fab fa-facebook"></i></span> <span class="mobile-nav-display-i">Facebook</span></a>
+                                <a href="#" class="no-hover opacity-1 pe-1 text-white"><span class="mn-soc-link mn-soc-link-color text-white" title="LinkedIn"><i class="fab fa-linkedin"></i></span> <span class="mobile-nav-display-i">LinkedIn</span></a>
+                                <a href="#" class="no-hover opacity-1 text-white"><span class="mn-soc-link mn-soc-link-color text-white" title="Youtube"><i class="fab fa-youtube"></i></span> <span class="mobile-nav-display-i">Youtube</span></a>
+                            </li>
                         </ul>
 
                         <ul class="items-end clearlist local-scroll">
@@ -83,7 +97,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                 <a href="#contact" class="opacity-1 no-hover">
                                     <span class="btn btn-mod btn-small btn-border-w btn-circle" data-btn-animate="y">
                                         <i class="fa fa-donate size-16"></i>
-                                        Donete Now
+                                        Donate Now
                                     </span>
                                 </a>
                             </li>
@@ -148,15 +162,20 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                 <!-- End Home Section -->
 
                 <!-- About Section -->
-                <section class="page-section" id="about">
+                <section class="page-section" id="about" style="padding-top:0px">
+                    <div class="row wow fadeInRight" >
+                        <div class="col-md-12 col-lg-12 top-heading-left">
+                            <h2 class="section-title mb-30 mb-sm-20"><span class="theme-color"></span>Who We Are<span class="text-black"></span></h2>
+                        </div>
+                    </div>
 
                     <!-- Decorative Line -->
-                    <div class="bg-line-1 opacity-025">
+                    {{-- <div class="bg-line-1 opacity-025">
                         <img src="{{asset('theme/images/demo-corporate/decoration-2.svg')}}" alt="" class="wow fadeIn" data-wow-delay="0.4s" />
-                    </div>
+                    </div> --}}
                     <!-- End Decorative Line -->
 
-                    <div class="container position-relative">
+                    <div class="container position-relative" style="padding-top:140px">
 
                         <div class="row mb-70 mb-sm-50">
                             <div class="col-md-10 offset-md-1 col-lg-10  text-center">
@@ -183,6 +202,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                 </section>
                 <!-- End About Section -->
                  <!-- Call to Action Section -->
+
                  <section class="page-section bg-scroll light-content" style="background-image: url('{{asset('uploads/2149004358.jpg')}}'); background-position: bottom right !important;  ">
 
                     <!-- Desktop Overlay -->
@@ -356,7 +376,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
 
                 <!-- Blog Section -->
                 <section class="page-section bg-gradient-gray-light-1" id="blog" style="padding-top:0px">
-                    <div class="row wow fadeInLeft" >
+                    <div class="row wow fadeInRight" >
                         <div class="col-md-12 col-lg-12 top-heading-left">
                             <h2 class="section-title mb-30 mb-sm-20"><span class="theme-color"></span>Insights and Update.<span class="text-black"></span></h2>
                         </div>
@@ -382,22 +402,6 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
 
                                     <h3 class="post-prev-title"><a href="#">Unlocking Potential: How Micro-Enterprises Are Transforming Lives</a></h3>
 
-                                    <div class="post-prev-text">
-                                        In a world often dominated by large corporations, the power of small businesses cannot be overlooked. Micro-enterprises,
-                                    </div>
-
-                                    <div class="post-prev-info clearfix">
-                                        <div class="float-start">
-                                            <a href="#" class="icon-author">
-                                                <i class="mi-user size-14 align-middle"></i>
-                                            </a>
-                                            <a href="#">Thomas Johnson</a>
-                                        </div>
-                                        <div class="float-end">
-                                            <i class="mi-calendar size-14 align-middle"></i>
-                                            <a href="#">August 5</a>
-                                        </div>
-                                    </div>
 
                                 </div>
                             </div>
@@ -413,22 +417,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
 
                                     <h3 class="post-prev-title"><a href="#">Navigating the Road to Success: Lessons from Our Clients</a></h3>
 
-                                    <div class="post-prev-text">
-                                        Starting a business is not without its challenges. From securing funding to managing risk, entrepreneurs face a myriad of obstacles along the way.
-                                    </div>
 
-                                    <div class="post-prev-info clearfix">
-                                        <div class="float-start">
-                                            <a href="#" class="icon-author">
-                                                <i class="mi-user size-14 align-middle"></i>
-                                            </a>
-                                            <a href="#">Robert Gitau</a>
-                                        </div>
-                                        <div class="float-end">
-                                            <i class="mi-calendar size-14 align-middle"></i>
-                                            <a href="#">August 5</a>
-                                        </div>
-                                    </div>
 
                                 </div>
                             </div>
@@ -444,22 +433,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
 
                                     <h3 class="post-prev-title"><a href="#">Embracing Flexibility: How the Gig Economy is Reshaping the Workforce</a></h3>
 
-                                    <div class="post-prev-text">
-                                        The traditional 9-to-5 job is no longer the only path to financial stability. The rise of the gig economy has created new..
-                                    </div>
 
-                                    <div class="post-prev-info clearfix">
-                                        <div class="float-start">
-                                            <a href="#" class="icon-author">
-                                                <i class="mi-user size-14 align-middle"></i>
-                                            </a>
-                                            <a href="#">Noel Kiptum</a>
-                                        </div>
-                                        <div class="float-end">
-                                            <i class="mi-calendar size-14 align-middle"></i>
-                                            <a href="#">August 5</a>
-                                        </div>
-                                    </div>
 
                                 </div>
                             </div>
@@ -638,6 +612,80 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
 
                 </section>
                 <!-- End Contact Section -->
+
+                 <!-- Google Map -->
+                 <div class="google-map">
+
+                    <a href="#" class="map-section">
+                        <div class="map-toggle wow fadeInUpShort" aria-hidden="true">
+                            <div class="mt-icon">
+                                <i class="mi-location"></i>
+                            </div>
+                            <div class="mt-text">
+                                <div class="mt-open">Open the map <i class="mt-open-icon"></i></div>
+                                <div class="mt-close">Close the map <i class="mt-close-icon"></i></div>
+                            </div>
+                        </div>
+                    </a>
+
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4083624.737387345!2d37.1692338!3d-1.7699422!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4db5b96cfd8edf59%3A0xc3075faccb42dd3!2sSkyline%20Public%20Relations%20Group!5e0!3m2!1sen!2ske!4v1727937086996!5m2!1sen!2ske" width="600" height="450" loading="lazy" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
+                </div>
+                <!-- End Google Map -->
+
+                <!-- FAQ Section -->
+                <section class="page-section">
+                    <div class="container position-relative">
+
+                        <div class="row position-relative">
+
+                            <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+
+                                <h3 class="section-title text-center mb-80 mb-sm-60">
+                                    Frequently Asked Questions
+                                </h3>
+
+                                <!-- Accordion -->
+                                <dl class="toggle">
+
+                                    <dt>
+                                        <a href="#">What is BFL, and what services do you provide?</a>
+                                    </dt>
+                                    <dd class="black">
+                                        FL is a [description of BFL's focus or industry, e.g., a financial services company, logistics firm, etc.]. We specialize in [list key services/products], including [examples of specific offerings that BFL provides].
+                                    </dd>
+
+                                    <dt>
+                                        <a href="#">How can I apply for [product/service] at BFL?</a>
+                                    </dt>
+                                    <dd class="black">
+                                        To apply for [product/service], you can visit our website at businessforlife.com and fill out an online application form. Alternatively, you can contact us directly at [contact info] or visit our offices located at [physical address].
+                                    </dd>
+
+                                    <dt>
+                                        <a href="#">What are the eligibility criteria for [specific service/product]?</a>
+                                    </dt>
+                                    <dd class="black">
+                                        The eligibility criteria depend on the specific product or service you're interested in. Generally, you need to provide [requirements, such as documentation, qualifications, etc.]. For detailed requirements, please visit [service/product page URL] or contact our customer service team.
+                                    </dd>
+
+                                    <dt>
+                                        <a href="#">Why Iam i out of Questions? </a>
+                                    </dt>
+                                    <dd class="black">
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vehicula porttitor rutrum. Ut laoreet sodales rutrum. Ut eget tristique nibh. Cras mattis est eget lacus dignissim, non consectetur velit pellentesque. Ut sit amet placerat eros, id gravida arcu. Sed felis purus, tempor ac vestibulum nec, consectetur at purus.
+                                    </dd>
+
+                                </dl>
+                                <!-- End Accordion -->
+
+                            </div>
+
+                        </div>
+                    </div>
+                </section>
+                <!-- End FAQ Section -->
+
 
 
             </main>
