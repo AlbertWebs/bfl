@@ -204,7 +204,7 @@ Primary use: Multipurpose Template
     --color-primary-light-3: #f7defe;
     --color-primary-4: #e748b1;
     --color-primary-light-4: #ffe1f5;
-    --color-secondary-1: #88B437;
+    --color-secondary-1: #1A383C;
     --gradient-primary-1: linear-gradient( 90deg, var(--color-primary-4) 0%, var(--color-primary-3) 33%, var(--color-primary-2) 67%, var(--color-primary-1) 100%);
     --gradient-primary-1-a: linear-gradient( 90deg, var(--color-primary-4) 25%, var(--color-primary-3) 40%, var(--color-primary-2) 60%, var(--color-primary-1) 75%);
     --gradient-primary-1-b: linear-gradient( 45deg, var(--color-primary-4) 0%, var(--color-primary-3) 33%, var(--color-primary-2) 67%, var(--color-primary-1) 100%);
@@ -1510,7 +1510,7 @@ a.btn-mod:focus{
 }
 .btn-icon.color-3{
     color: #fff;
-    background: #88B437;
+    background: #1A383C;
 }
 .btn-icon.color-4{
     color: #fff;
@@ -4893,7 +4893,7 @@ a.logo:hover{
 }
 .features-list-icon.features-list-color-1{
     color: #fff;
-    background: #88B437;
+    background: #1A383C;
 }
 .features-list-icon.features-list-color-2{
     color: #fff;
@@ -10478,7 +10478,7 @@ a.blog-item-more:hover{
     display: inline-block;
     margin: 0 2px 8px 0;
     padding: 5px 7px;
-    border: 5px solid #88B437;
+    border: 5px solid #1A383C;
     color: var(--color-dark-4);
     font-size: 20px;
     text-decoration: none;
@@ -12452,7 +12452,9 @@ html:not(.mobile) .owl-animate-fadeInDown{
 .text-white{
     color:#ffffff !important;
 }
-
+.btn-theme{
+    background-color:#1A383C !important;
+}
 @media only screen and (max-width: 540px) {
     .top-heading-left{
         width:100%;

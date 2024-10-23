@@ -72,9 +72,9 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                         <ul class="clearlist scroll-nav local-scroll">
                             {{-- <li><a href="#home" class="active">Home</a></li> --}}
                             <li><a href="#about">Who We Are</a></li>
-                            <li><a href="#programs">Programs</a></li>
+                            <li><a href="#programs">What We Do</a></li>
                             <li><a href="#portfolio">Impact Stories</a></li>
-                            <li><a href="#blog">News Updates</a></li>
+                            <li><a href="#blog"> Updates</a></li>
                             <li><a href="#contact">Contact</a></li>
 
 
@@ -133,9 +133,9 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                         <!-- Home Section Content -->
                         <div class="home-content pt-20 pt-md-0 text-center">
 
-                            <h2 class="section-title-tiny font-alt mb-40 mb-sm-30 wow fadeInUp">Welcome to Bussiness For Life</h2>
+                            <h2 class="section-title-tiny font-alt mb-40 mb-sm-30 wow fadeInUp">Transforming lives through business training</h2>
 
-                            <h1 class="hs-title-44 font-alt mb-60 mb-sm-40"><span class="wow charsAnimIn" data-splitting="chars">Healing shouldn’t be just for <br>those who can afford it.</span></h1>
+                            <h1 class="hs-title-44 font-alt mb-60 mb-sm-40"><span class="wow charsAnimIn" data-splitting="chars">Business Skills Training shouldn’t just be for those who can afford it</span></h1>
 
                             {{--  --}}
                             {{-- <h1 class="hs-title-13a font-alt mb-50 mb-sm-30 wow fadeRotateIn" data-wow-delay="0.2s">
@@ -145,7 +145,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                             </h1> --}}
                             {{--  --}}
                             <div class="local-scroll wow fadeInUp" data-wow-delay="0.6s" data-wow-offset="0">
-                                <a href="#" class="btn btn-mod btn-large btn-w btn-circle" data-btn-animate="y">Explore Success Stories</a>
+                                <a href="#" class="btn btn-mod btn-large btn-w btn-circle" data-btn-animate="y">Impact Stories</a>
                             </div>
 
                         </div>
@@ -183,12 +183,15 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                 <p class="section-descr mb-0">
                                         <span>
                                             {{-- <strong> --}}
-                                                <span>For nearly 30 years, BFL has been empowering orphans and families to break free from poverty and embrace the teachings of Christ.
+
+
+
+                                                <span>Since 2007, Business For Life has been empowering particularly poor and unemployed people to rise from poverty into fullness of life.
                                                 <strong>
-                                                    <span style="color: #c26940;"> Through their dedicated efforts, BFL has provided essential support while fostering both spiritual and material transformation.</span>
-                                                    <span style="color: #d8a13d;"> These families, now strengthened and renewed,</span>
-                                                    <span style="color: #1A383C;">are sharing their stories of change, creating a positive ripple effect in their communities.</span></strong>
-                                                    For 29 years, BFL has stood as a beacon of hope, inspiring faith, resilience, and lasting empowerment.
+                                                    <span style="color: #c26940;"> Business For Life is a concrete and holistic expression of God’s love in practical and life-changing ways.</span>
+
+                                                    <span style="color: #1A383C;">Through hands-on business skills training, Business For Life provides a hand-up rather than a hand-out</span></strong>
+
 
                                             {{-- </strong> --}}
                                         </span>
@@ -222,7 +225,11 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                 <h2 class="section-title mb-40 mb-xs-30">What makes us  <span class="mark-decoration-5">different</span> </h2>
 
                                 <p class="section-descr mb-50 mb-sm-40">
-                                    Even when people in poverty receive help, it is usually limited to their external problems. BFL looks at the whole person (who God made them to be) and their community to see what relational, emotional, and spiritual support is needed as well.
+                                    Business For life uses a distinctive training methodology:<br><br>
+
+                                    - Facilitators are local entrepreneurs with personal business experience<br>
+                                    - Training is practical and interactive during which participants implement what they have learned<br>
+                                    - Mentorship visits follow the training program<br>
                                 </p>
 
                             </div>
@@ -304,70 +311,70 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
 
 
 
+
+
+
+
+
                             <div class="row">
                                 <div class="container position-relative" style="padding-top:140px">
+                                    <div class="row mb-80 mb-sm-60">
+                                        <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2 text-center">
+                                            <p class="section-descr mb-0">
+                                                Since the quickest and most direct way out of poverty is for people to make their own money, the Business For Life training changes lives by Decreasing Dependency and Developing People in a way that Enhances Dignity. This Inspires Destiny as people are motivated to move into their full potential.
+                                            </p>
+                                        </div>
+                                    </div>
+
                                     <!-- Portfolio Grid -->
-                            <div id="isotope" class="mb-n100 mb-sm-n50">
+                                    <div id="isotope" class="mb-n100 mb-sm-n50">
 
-                                <!-- Portfolio Item -->
-                                <div class="portfolio-2-item mb-100 mb-sm-50 mix development">
-                                    <div class="row wow-p fadeInUp">
-                                        <div class="col-md-6 mb-sm-30">
-                                            <div class="portfolio-2-image">
-                                                <a href="#"><img src="{{asset('uploads/pexels-mikhail-nilov-9301156.jpg')}}" alt="Business Training & Mentorship"></a>
+                                        <!-- Portfolio Item -->
+                                        <div class="portfolio-2-item mb-100 mb-sm-50 mix development">
+                                            <div class="row wow-p fadeInUp">
+                                                <div class="col-md-6 mb-sm-30">
+                                                    <div class="portfolio-2-image">
+                                                        <br><br>
+                                                        <a href="#"><img src="{{asset('uploads/pexels-mikhail-nilov-9301156.jpg')}}" alt="Business Training & Mentorship"></a>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6">
+                                                    <hr class="black thick mt-0 mb-20 d-none d-md-block">
+                                                    <h3 class="portfolio-2-title font-alt mb-20">Business Training and Mentoring</h3>
+                                                    <p class="section-descr">
+                                                        The <strong>Business For Life training</strong> is practical and interactive with participants implementing what they have learned during the course.  Because business skills are primarily caught not taught, all courses are facilitated by local entrepreneurs with business experience.  For six months after the end of the course, each participant is personally mentored.
+                                                    </p>
+                                                    <div class="wow fadeInUp" data-wow-delay="0.6s" data-wow-offset="0">
+                                                        <a href="{{url('/')}}/business-training-mentorship" class="btn btn-mod btn-large btn-theme  btn-circle" data-btn-animate="y">Learn More</a>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
-                                        <div class="col-md-6">
-                                            <hr class="black thick mt-0 mb-20 d-none d-md-block">
-                                            <h3 class="portfolio-2-title font-alt mb-20">Business Training & Mentorship</h3>
-                                            <p class="section-descr">
-                                                BFL's <strong>Business Training & Mentorship</strong> program equips individuals with the skills to start or grow businesses. With practical training and guidance from experienced mentors, participants gain confidence, fostering financial independence and long-term success in their communities.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Portfolio Item -->
+                                        <!-- End Portfolio Item -->
 
-                                <!-- Portfolio Item -->
-                                <div class="portfolio-2-item mb-100 mb-sm-50 mix branding">
-                                    <div class="row wow-p fadeInUp">
-                                        <div class="col-md-6">
-                                            <hr class="black thick mt-0 mb-20 d-none d-md-block">
-                                            <h3 class="portfolio-2-title font-alt mb-20">Mentees Follow Ups</h3>
-                                            <p class="section-descr">
-                                                BFL's ensure ongoing support and accountability for participants after their initial training. Through regular check-ins, mentors track progress, address challenges, and provide additional guidance. These follow-ups help mentees stay on course, refine their business strategies, and continue growing towards financial independence and success.
-                                            </p>
-                                        </div>
-                                        <div class="col-md-6 mb-sm-30 order-first order-md-last">
-                                            <div class="portfolio-2-image">
-                                                <a href="#"><img src="{{asset('uploads/pexels-gabby-k-9490629.jpg')}}" alt="Mentees Follow Ups"></a>
+                                        <!-- Portfolio Item -->
+                                        <div class="portfolio-2-item mb-100 mb-sm-50 mix branding">
+                                            <div class="row wow-p fadeInUp">
+                                                <div class="col-md-6">
+                                                    <hr class="black thick mt-0 mb-20 d-none d-md-block">
+                                                    <h3 class="portfolio-2-title font-alt mb-20">Alumni</h3>
+                                                    <p class="section-descr">
+                                                        BFL's ensure ongoing support and accountability for participants after their initial training. Through regular check-ins, mentors track progress, address challenges, and provide additional guidance. These follow-ups help mentees stay on course, refine their business strategies, and continue growing towards financial independence and success.
+                                                    </p>
+                                                </div>
+                                                <div class="col-md-6 mb-sm-30 order-first order-md-last">
+                                                    <div class="portfolio-2-image">
+                                                        <a href="#"><img src="{{asset('uploads/pexels-gabby-k-9490629.jpg')}}" alt="Mentees Follow Ups"></a>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                </div>
-                                <!-- End Portfolio Item -->
+                                        <!-- End Portfolio Item -->
 
-                                <!-- Portfolio Item -->
-                                <div class="portfolio-2-item mb-100 mb-sm-50 mix design development">
-                                    <div class="row wow-p fadeInUp">
-                                        <div class="col-md-6 mb-sm-30">
-                                            <div class="portfolio-2-image">
-                                                <a href="#"><img src="{{asset('uploads/pexels-overly-olu-264845430-12714976.jpg')}}" alt="Image Description"></a>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <hr class="black thick mt-0 mb-20 d-none d-md-block">
-                                            <h3 class="portfolio-2-title font-alt mb-20">Alumni Program</h3>
-                                            <p class="section-descr">
-                                                BFL's **Alumni Program** provides ongoing support for past participants through networking, advanced workshops, and resources. Alumni can further grow their businesses, share knowledge, and mentor others, fostering a strong community of collaboration and continued success.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Portfolio Item -->
 
-                            </div>
-                            <!-- End Portfolio Grid -->
+
+                                    </div>
+                                    <!-- End Portfolio Grid -->
 
                         </div>
                     </div>
@@ -378,7 +385,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                 <section class="page-section bg-gradient-gray-light-1" id="blog" style="padding-top:0px">
                     <div class="row wow fadeInRight" >
                         <div class="col-md-12 col-lg-12 top-heading-left">
-                            <h2 class="section-title mb-30 mb-sm-20"><span class="theme-color"></span>Insights and Update.<span class="text-black"></span></h2>
+                            <h2 class="section-title mb-30 mb-sm-20"><span class="theme-color"></span>Updates.<span class="text-black"></span></h2>
                         </div>
                     </div>
                     <div class="container" style="padding-top:140px">
@@ -461,7 +468,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                             <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2 text-center">
                                 {{-- <h2 class="section-title mb-40 mb-xs-30">Let’s have a conversation</h2> --}}
                                 <p class="section-descr mb-0">
-                                    We’re here to connect with like-minded individuals. Reach out, say hello, and let's begin a journey toward productive collaboration. Together, we can create your own success story and achieve great things.
+                                    Reach out to us and let's begin a journey toward productive collaboration. Together we can achieve great things.
                                 </p>
                             </div>
                         </div>
