@@ -439,7 +439,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
 
                                     <div class="post-prev-img image-updates">
                                         <a href="#"><img src="{{url('/')}}/uploads/Class-discussion.jpg" alt="Add Image Description"></a>
-                                        <span class="overlay-text">Empowering Our Alumni</span>
+                                        <span class="overlay-text">Empowering <br> Our <br> Alumni</span>
                                     </div>
 
                             </div>
