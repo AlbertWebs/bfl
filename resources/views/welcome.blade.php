@@ -410,48 +410,38 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
 
                             <!-- Post Item -->
                             <div class="post-prev col-md-6 col-lg-4 mt-30 wow fadeInLeft" data-wow-delay="0">
-                                <div class="post-prev-container">
 
-                                    <div class="post-prev-img">
-                                        <a href="#"><img src="{{url('/')}}/uploads/leaders.png" alt="Unlocking Potential: How Micro-Enterprises Are Transforming Lives"></a>
+
+                                    <div class="post-prev-img image-updates">
+                                        <a href="#"><img src="{{url('/')}}/uploads/Class-discussion.jpg" alt="Unlocking Potential: How Micro-Enterprises Are Transforming Lives"></a>
+                                        <span class="overlay-text">Empowering Through Courses</span>
                                     </div>
 
-                                    <h3 class="post-prev-title"><a href="#">Unlocking Potential: How Micro-Enterprises Are Transforming Lives</a></h3>
-
-
-                                </div>
                             </div>
                             <!-- End Post Item -->
 
                             <!-- Post Item -->
                             <div class="post-prev col-md-6 col-lg-4 mt-30 wow fadeInLeft" data-wow-delay="0.1s">
-                                <div class="post-prev-container">
 
-                                    <div class="post-prev-img">
-                                        <a href="#"><img src="{{url('/')}}/uploads/leaders.png" alt="Add Image Description"></a>
+
+                                    <div class="post-prev-img image-updates">
+                                        <a href="#"><img src="{{url('/')}}/uploads/mentoring.jpg" alt="Add Image Description"></a>
+                                        <span class="overlay-text">Empowering Through Mentoring</span>
                                     </div>
 
-                                    <h3 class="post-prev-title"><a href="#">Navigating the Road to Success: Lessons from Our Clients</a></h3>
 
-
-
-                                </div>
                             </div>
                             <!-- End Post Item -->
 
                             <!-- Post Item -->
                             <div class="post-prev col-md-6 col-lg-4 mt-30 wow fadeInLeft" data-wow-delay="0.2s">
-                                <div class="post-prev-container">
 
-                                    <div class="post-prev-img">
-                                        <a href="#"><img src="{{url('/')}}/uploads/leaders.png" alt="Add Image Description"></a>
+
+                                    <div class="post-prev-img image-updates">
+                                        <a href="#"><img src="{{url('/')}}/uploads/Class-discussion.jpg" alt="Add Image Description"></a>
+                                        <span class="overlay-text">Empowering Our Alumni</span>
                                     </div>
 
-                                    <h3 class="post-prev-title"><a href="#">Embracing Flexibility: How the Gig Economy is Reshaping the Workforce</a></h3>
-
-
-
-                                </div>
                             </div>
                             <!-- End Post Item -->
 
@@ -593,7 +583,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                                 <!-- Inform Tip -->
                                                 <div class="form-tip w-100 pt-3">
                                                     <i class="icon-info size-16"></i>
-                                                    All the fields are required. By sending the form you agree to the <a href="#">Terms & Conditions</a> and <a href="#">Privacy Policy</a>.
+                                                    All the fields are required. By sending the form you agree to the <a href="{{url('/')}}/terms-and-conditions">Terms & Conditions</a> and <a href="{{url('/')}}/privacy-policy">Privacy Policy</a>.
                                                 </div>
                                                 <!-- End Inform Tip -->
 
@@ -760,7 +750,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                         {{-- Made with love for great people. --}}
 
                         <div class="small">
-                            Read <a href="#">Terms & Conditions</a> and <a href="#">Privacy Policy</a>.
+                            Read <a href="{{url('/')}}/terms-and-conditions">Terms & Conditions</a> and <a href="{{url('/')}}/privacy-policy">Privacy Policy</a>.
                         </div>
 
                     </div>
