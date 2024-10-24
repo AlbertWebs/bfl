@@ -133,9 +133,12 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                         <!-- Home Section Content -->
                         <div class="home-content pt-20 pt-md-0 text-center">
 
-                            <h2 class="section-title-tiny font-alt mb-40 mb-sm-30 wow fadeInUp">Transforming lives through business training</h2>
+                            <h1 class="hs-title-44 font-alt mb-60 mb-sm-40"><span class="wow charsAnimIn" data-splitting="chars">Transforming lives through business training</span></h1>
+                            <h2 class="section-title-tiny font-alt mb-40 mb-sm-30 wow fadeInUp">Business Skills Training shouldn’t just be for those who can afford it</h2>
 
-                            <h1 class="hs-title-44 font-alt mb-60 mb-sm-40"><span class="wow charsAnimIn" data-splitting="chars">Business Skills Training shouldn’t just be for those who can afford it</span></h1>
+
+
+
 
                             {{--  --}}
                             {{-- <h1 class="hs-title-13a font-alt mb-50 mb-sm-30 wow fadeRotateIn" data-wow-delay="0.2s">
@@ -178,6 +181,14 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                     <div class="container position-relative" style="padding-top:140px">
 
                         <div class="row mb-70 mb-sm-50">
+                            <div class="row mb-80 mb-sm-60" style="position:relative; right:0px !important;">
+                                <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2 text-center">
+                                    {{-- <h2 class="section-title mb-40 mb-xs-30">Let’s have a conversation</h2> --}}
+                                    <p class="section-descr mb-0" style="font-size:50px;">
+                                        Through <span style="color: #c26940;"><strong>hands-on</strong></span> business skills training, Business For Life provides a <span style="color: #c26940;"><strong>hand-up</strong></span> rather than a <span style="color: #c26940;"><strong>hand-out.</strong></span>
+                                    </p>
+                                </div>
+                            </div>
                             <div class="col-md-10 offset-md-1 col-lg-10  text-center">
 
                                 <p class="section-descr mb-0">
@@ -186,11 +197,12 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
 
 
 
-                                                <span>Since 2007, Business For Life has been empowering particularly poor and unemployed people to rise from poverty into fullness of life.
+                                                <span>Since 2007, Business For Life has been empowering primarily poor and unemployed people to rise from poverty into fullness of life.
+                                                    <br>
                                                 <strong>
                                                     <span style="color: #c26940;"> Business For Life is a concrete and holistic expression of God’s love in practical and life-changing ways.</span>
 
-                                                    <span style="color: #1A383C;">Through hands-on business skills training, Business For Life provides a hand-up rather than a hand-out</span></strong>
+                                                    {{-- <span style="color: #1A383C;">Through hands-on business skills training, Business For Life provides a hand-up rather than a hand-out</span></strong> --}}
 
 
                                             {{-- </strong> --}}
@@ -206,7 +218,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                 <!-- End About Section -->
                  <!-- Call to Action Section -->
 
-                 <section class="page-section bg-scroll light-content" style="background-image: url('{{asset('uploads/2149004358.jpg')}}'); background-position: bottom right !important;  ">
+                 <section class="page-section bg-scroll light-content" style="background-image: url('{{asset('uploads/1.jpg')}}'); background-position: center middle !important;  ">
 
                     <!-- Desktop Overlay -->
                     {{-- <div class="bg-overlay bg-gradient-primary-alpha-1 d-none d-md-block"></div> --}}
@@ -225,10 +237,10 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                 <h2 class="section-title mb-40 mb-xs-30">What makes us  <span class="mark-decoration-5">different</span> </h2>
 
                                 <p class="section-descr mb-50 mb-sm-40">
-                                    Business For life uses a distinctive training methodology:<br><br>
+                                    <span style="color: #c26940; font-size:45px; font-weight:900">Business For life uses a distinctive training methodology:</span> <br><br>
 
                                     - Facilitators are local entrepreneurs with personal business experience<br>
-                                    - Training is practical and interactive during which participants implement what they have learned<br>
+                                    - Training is practical and interactive<br>
                                     - Mentorship visits follow the training program<br>
                                 </p>
 
@@ -308,20 +320,17 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                     </div>
 
 
-
-
-
-
-
-
-
-
                             <div class="row">
                                 <div class="container position-relative" style="padding-top:140px">
                                     <div class="row mb-80 mb-sm-60">
                                         <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2 text-center">
                                             <p class="section-descr mb-0">
-                                                Since the quickest and most direct way out of poverty is for people to make their own money, the Business For Life training changes lives by Decreasing Dependency and Developing People in a way that Enhances Dignity. This Inspires Destiny as people are motivated to move into their full potential.
+                                                <span style="font-size:40px; font-weight:600; color:#1A383C">The quickest and most direct way out of poverty is for people to make their own money. <br>
+                                                      ~Polak</span><br> The Business For Life training changes lives by <span style="color:#1A383C; font-weight:600;">Decreasing Dependency</span> and <span style="color:#1A383C; font-weight:600;">Developing People</span>
+                                                      in a way that <span style="color:#1A383C; font-weight:600;">Enhances Dignity</span>. This <span style="color:#1A383C; font-weight:600;">Inspires Destiny</span> as people are motivated to move into their full potential.
+
+                                                <br>
+
                                             </p>
                                         </div>
                                     </div>
@@ -333,9 +342,9 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                         <div class="portfolio-2-item mb-100 mb-sm-50 mix development">
                                             <div class="row wow-p fadeInUp">
                                                 <div class="col-md-6 mb-sm-30">
-                                                    <div class="portfolio-2-image">
+                                                    <div class="portfolio-2-image round-large-radius">
                                                         <br><br>
-                                                        <a href="#"><img src="{{asset('uploads/pexels-mikhail-nilov-9301156.jpg')}}" alt="Business Training & Mentorship"></a>
+                                                        <a href="#"><img class="round-large-radius" src="{{asset('uploads/Class-discussion.jpg')}}" alt="Business Training & Mentorship"></a>
                                                     </div>
                                                 </div>
                                                 <div class="col-md-6">
@@ -359,7 +368,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                                     <hr class="black thick mt-0 mb-20 d-none d-md-block">
                                                     <h3 class="portfolio-2-title font-alt mb-20">Alumni</h3>
                                                     <p class="section-descr">
-                                                        BFL's ensure ongoing support and accountability for participants after their initial training. Through regular check-ins, mentors track progress, address challenges, and provide additional guidance. These follow-ups help mentees stay on course, refine their business strategies, and continue growing towards financial independence and success.
+                                                        BFL ensures ongoing support and accountability for participants after their initial training. Through regular engagements, mentors track progress, address challenges, and provide additional guidance. These follow-ups help mentees stay on course, refine their business strategies, and continue growing towards financial independence and success.
                                                     </p>
                                                 </div>
                                                 <div class="col-md-6 mb-sm-30 order-first order-md-last">
@@ -488,7 +497,8 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                             Address
                                         </h4>
                                         <div class="ci-text large">
-                                            Jamuhuri Estate, Ngong Road, Kilimani
+                                            Shalom House, Block C, St Daniel Comboni Rd, Off Ngong Road
+
                                         </div>
                                         <div class="ci-link">
                                             <a href="#" rel="nofollow noopener" target="_blank">See Map</a>
@@ -507,10 +517,10 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                             Email
                                         </h4>
                                         <div class="ci-text large">
-                                            support@businessforlife.com
+                                            businessforlife@empoweringlives.org
                                         </div>
                                         <div class="ci-link">
-                                            <a href="mailto:support@businessforlife.com">Say Hello</a>
+                                            <a href="mailto:businessforlife@empoweringlives.org">Say Hello</a>
                                         </div>
                                     </div>
                                     <!-- End Email -->
@@ -526,10 +536,10 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                             Phone
                                         </h4>
                                         <div class="ci-text large">
-                                            +254 723 014 032
+                                            +254 721 179 061
                                         </div>
                                         <div class="ci-link">
-                                            <a href="tel:+254 723 014 032">Call now</a>
+                                            <a href="tel:+254 721 179 061">Call now</a>
                                         </div>
                                     </div>
                                     <!-- End Phone -->
@@ -663,25 +673,27 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                     </dd>
 
                                     <dt>
-                                        <a href="#">How can I apply for [product/service] at BFL?</a>
+                                        <a href="#">How can i support BFL?</a>
                                     </dt>
                                     <dd class="black">
                                         To apply for [product/service], you can visit our website at businessforlife.com and fill out an online application form. Alternatively, you can contact us directly at [contact info] or visit our offices located at [physical address].
                                     </dd>
 
                                     <dt>
-                                        <a href="#">What are the eligibility criteria for [specific service/product]?</a>
+                                        <a href="#">What is BFL's success rate?</a>
+                                    </dt>
+                                    <dd class="black">
+                                        To apply for [product/service], you can visit our website at businessforlife.com and fill out an online application form. Alternatively, you can contact us directly at [contact info] or visit our offices located at [physical address].
+                                    </dd>
+
+                                    <dt>
+                                        <a href="#">How can BFL serve my organization?</a>
                                     </dt>
                                     <dd class="black">
                                         The eligibility criteria depend on the specific product or service you're interested in. Generally, you need to provide [requirements, such as documentation, qualifications, etc.]. For detailed requirements, please visit [service/product page URL] or contact our customer service team.
                                     </dd>
 
-                                    <dt>
-                                        <a href="#">Why Iam i out of Questions? </a>
-                                    </dt>
-                                    <dd class="black">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vehicula porttitor rutrum. Ut laoreet sodales rutrum. Ut eget tristique nibh. Cras mattis est eget lacus dignissim, non consectetur velit pellentesque. Ut sit amet placerat eros, id gravida arcu. Sed felis purus, tempor ac vestibulum nec, consectetur at purus.
-                                    </dd>
+
 
                                 </dl>
                                 <!-- End Accordion -->

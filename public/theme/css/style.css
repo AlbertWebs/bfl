@@ -12455,6 +12455,9 @@ html:not(.mobile) .owl-animate-fadeInDown{
 .btn-theme{
     background-color:#1A383C !important;
 }
+.round-large-radius{
+    border-radius:10px;
+}
 @media only screen and (max-width: 540px) {
     .top-heading-left{
         width:100%;

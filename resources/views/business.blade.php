@@ -129,7 +129,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
 
                                 <h1 class="hs-title-9 mb-10">
                                     <span class="wow charsAnimIn" data-splitting="chars">
-                                         <span class="mark-decoration-3-wrap">Business Training Mentorship<b class="mark-decoration-3 wow scalexIn" data-wow-delay="0.5s"></b></span>
+                                         <span class="mark-decoration-3-wrap" style="color:#1A383C">Business Training Mentorship<b class="wow scalexIn" data-wow-delay="0.5s"></b></span>
                                     </span>
                                 </h1>
 
@@ -143,7 +143,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
 
 
                   <!-- Portfolio Section -->
-                  <section class="page-section bg-gradient-gray-light-1" id="portfolio">
+                  <section class="page-section bg-gradient-gray-light-1" id="programs">
                     <div class="container position-relative">
 
                         <div class="row mb-70 mb-sm-50">
@@ -153,9 +153,9 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
 
 
                                 <p class="section-descr mb-0">
-                                    <strong>Selection Process</strong><br>
+                                    <strong style="color:#1A383C; font-weight:600">Selection Process</strong><br>
                                     The intervention begins with a selection process during which those who are more entrepreneurially inclined and willing to commit themselves to this training process are selected.  Each applicant must contribute the equivalent of $10 for the money-making activity they will be involved in during the course.
-                                    <br><br><strong>The Course</strong><br>
+                                    <br><br><strong style="color:#1A383C; font-weight:600">The Course</strong><br>
 
                                     During the course a unique combination of theory and practice is employed.  Business concepts learned in the classroom are applied directly in their local marketplace, thereby reinforcing the acquisition of practical business skills.
                                     Fieldwork throughout the course includes researching business opportunities and choosing the opportunity which best suits the participant’s interest and abilities. The profitability and sustainability of the new business is analyzed as participants learn to calculate their breakeven point.  The participants determine the most suitable marketing and management strategy as their new business is started.  Participants explore ways to grow the new venture, draw up a business plan and keep the necessary records as per what they learned on the course.
@@ -163,11 +163,11 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                     <br><br>
 
 
-                                    <strong>Mentorship</strong><br>
+                                    <strong style="color:#1A383C; font-weight:600">Mentorship</strong><br>
 
                                     Mentorship, crucial to ongoing learner success, commences immediately after the initial month of training for a further 6 months, when each learner is personally engaged four times by one of the trainers. It is during these one-on-one sessions that the new business owners receive helpful business mentoring, as the trainer helps them to implement the skills learned on the training, as they face the inevitable challenges of starting a new business.<br><br>
 
-                                    <strong>Financial Understanding Board Game</strong><br>
+                                    <strong style="color:#1A383C; font-weight:600">Financial Understanding Board Game</strong><br>
                                     During the course participants engage in a board game exercise developed especially to help them practically integrate the skills and thinking acquired on the course into their business practices. The Financial Understanding Board Game was designed to train the learners practically how to manage their business finances and their working capital, to make good financial decisions, to work through problems, to manage their cash flow, to manage their stock levels, and to keep accurate records.
 
                                 </p>
