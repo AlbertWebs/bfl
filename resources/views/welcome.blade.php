@@ -134,7 +134,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                         <div class="home-content pt-20 pt-md-0 text-center">
 
                             <h1 class="hs-title-44 font-alt mb-60 mb-sm-40"><span class="wow charsAnimIn" data-splitting="chars">Transforming lives through business training</span></h1>
-                            <h2 class="section-title-tiny font-alt mb-40 mb-sm-30 wow fadeInUp">Business Skills Training shouldn’t just be for those who can afford it</h2>
+                            <h2 class="section-title-tiny font-alt mb-40 mb-sm-30 wow charsAnimIn" data-splitting="chars" style="font-size:30px">Business Skills Training shouldn’t just be for <br> those who can afford it</h2>
 
 
 
@@ -182,7 +182,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
 
                         <div class="row mb-70 mb-sm-50">
                             <div class="row mb-80 mb-sm-60" style="position:relative; right:0px !important;">
-                                <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2 text-center">
+                                <div class="col-md-12  col-lg-12 text-center">
                                     {{-- <h2 class="section-title mb-40 mb-xs-30">Let’s have a conversation</h2> --}}
                                     <p class="section-descr mb-0" style="font-size:50px;">
                                         Through <span style="color: #c26940;"><strong>hands-on</strong></span> business skills training, Business For Life provides a <span style="color: #c26940;"><strong>hand-up</strong></span> rather than a <span style="color: #c26940;"><strong>hand-out.</strong></span>
@@ -326,8 +326,8 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                         <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2 text-center">
                                             <p class="section-descr mb-0">
                                                 <span style="font-size:40px; font-weight:500; color:#1A383C">The quickest and most direct way out of poverty is for people to make their own money. <br>
-                                                      ~Polak</span><br> The Business For Life training changes lives by <span style="color:#1A383C; font-weight:500;">Decreasing Dependency</span> and <span style="color:#1A383C; font-weight:500;">Developing People</span>
-                                                      in a way that <span style="color:#1A383C; font-weight:500;">Enhances Dignity</span>. This <span style="color:#1A383C; font-weight:500;">Inspires Destiny</span> as people are motivated to move into their full potential.
+                                                      ~Polak</span><br> The Business For Life training changes lives by <strong style="color:#1A383C;">Decreasing Dependency</strong> and <strong style="color:#1A383C;">Developing People</strong>
+                                                      in a way that <strong style="color:#1A383C; font-weight:500;">Enhances Dignity</strong>. This <strong style="color:#1A383C;">Inspires Destiny</strong> as people are motivated to move into their full potential.
 
                                                 <br>
 
@@ -349,9 +349,9 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                                 </div>
                                                 <div class="col-md-6">
                                                     <hr class="black thick mt-0 mb-20 d-none d-md-block">
-                                                    <h3 class="portfolio-2-title font-alt mb-20">Business Training and Mentoring</h3>
+                                                    <h3 class="portfolio-2-title font-alt mb-20" >Business Training and Mentoring</h3>
                                                     <p class="section-descr">
-                                                        The <strong>Business For Life training</strong> is practical and interactive with participants implementing what they have learned during the course.  Because business skills are primarily caught not taught, all courses are facilitated by local entrepreneurs with business experience.  For six months after the end of the course, each participant is personally mentored.
+                                                        The <strong style="color:#1A383C;">Business For Life training</strong> is practical and interactive with participants implementing what they have learned during the course.  Because business skills are primarily caught not taught, all courses are facilitated by local entrepreneurs with business experience.  For six months after the end of the course, each participant is personally mentored.
                                                     </p>
                                                     <div class="wow fadeInUp" data-wow-delay="0.6s" data-wow-offset="0">
                                                         <a href="{{url('/')}}/business-training-mentorship" class="btn btn-mod btn-large btn-theme  btn-circle" data-btn-animate="y">Learn More</a>
@@ -498,10 +498,9 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                         </h4>
                                         <div class="ci-text large">
                                             Shalom House, Block C, St Daniel Comboni Rd, Off Ngong Road
-
                                         </div>
                                         <div class="ci-link">
-                                            <a href="#" rel="nofollow noopener" target="_blank">See Map</a>
+                                            <a href="https://maps.app.goo.gl/qpqeUt9RfbJAC7JE6" rel="nofollow noopener" target="_blank">See Map</a>
                                         </div>
                                     </div>
                                     <!-- End Address -->
@@ -645,7 +644,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                         </div>
                     </a>
 
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4083624.737387345!2d37.1692338!3d-1.7699422!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4db5b96cfd8edf59%3A0xc3075faccb42dd3!2sSkyline%20Public%20Relations%20Group!5e0!3m2!1sen!2ske!4v1727937086996!5m2!1sen!2ske" width="600" height="450" loading="lazy" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d426.21116951397175!2d36.75433370367086!3d-1.3001102594562906!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f1b00389d3b57%3A0x8e4c921c3610dd84!2sBusiness%20For%20Life!5e1!3m2!1sen!2ske!4v1729765292707!5m2!1sen!2ske" width="600" height="450" loading="lazy" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
                 </div>
                 <!-- End Google Map -->
