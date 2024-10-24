@@ -325,9 +325,9 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                     <div class="row mb-80 mb-sm-60">
                                         <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2 text-center">
                                             <p class="section-descr mb-0">
-                                                <span style="font-size:40px; font-weight:600; color:#1A383C">The quickest and most direct way out of poverty is for people to make their own money. <br>
-                                                      ~Polak</span><br> The Business For Life training changes lives by <span style="color:#1A383C; font-weight:600;">Decreasing Dependency</span> and <span style="color:#1A383C; font-weight:600;">Developing People</span>
-                                                      in a way that <span style="color:#1A383C; font-weight:600;">Enhances Dignity</span>. This <span style="color:#1A383C; font-weight:600;">Inspires Destiny</span> as people are motivated to move into their full potential.
+                                                <span style="font-size:40px; font-weight:500; color:#1A383C">The quickest and most direct way out of poverty is for people to make their own money. <br>
+                                                      ~Polak</span><br> The Business For Life training changes lives by <span style="color:#1A383C; font-weight:500;">Decreasing Dependency</span> and <span style="color:#1A383C; font-weight:500;">Developing People</span>
+                                                      in a way that <span style="color:#1A383C; font-weight:500;">Enhances Dignity</span>. This <span style="color:#1A383C; font-weight:500;">Inspires Destiny</span> as people are motivated to move into their full potential.
 
                                                 <br>
 
