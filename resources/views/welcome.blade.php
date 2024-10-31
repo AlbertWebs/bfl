@@ -654,7 +654,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                     <dt>
                                         <a href="#" style="color: #c26940;">What is BFL, and what services do you provide?</a>
                                     </dt>
-                                    <dd class="black">
+                                    <dd class="blacks" style="color:#30676e !important">
                                         FL is a [description of BFL's focus or industry, e.g., a financial services company, logistics firm, etc.]. We specialize in [list key services/products], including [examples of specific offerings that BFL provides].
                                     </dd>
 
