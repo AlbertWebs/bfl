@@ -200,12 +200,12 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                                 <span>Since 2007, Business For Life has been empowering primarily poor and unemployed people to rise from poverty into fullness of life.
                                                     <br>
                                                 <strong>
-                                                    <span style="color: #c26940;"> Business For Life is a concrete and holistic expression of God’s love in practical and life-changing ways.</span>
+                                                    <span style="color: #c26940;font-weight:600"> Business For Life is a concrete and holistic expression of God’s love in practical and life-changing ways.</span>
 
                                                     {{-- <span style="color: #30676e;">Through hands-on business skills training, Business For Life provides a hand-up rather than a hand-out</span></strong> --}}
 
 
-                                            {{-- </strong> --}}
+                                            </strong>
                                         </span>
                                     </span>
                                 </p>
