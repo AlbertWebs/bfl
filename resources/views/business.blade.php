@@ -233,10 +233,10 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                             Address
                                         </h4>
                                         <div class="ci-text large">
-                                            Jamuhuri Estate, Ngong Road, Kilimani
+                                            Shalom House, Block C, St Daniel Comboni Rd, Off Ngong Road
                                         </div>
                                         <div class="ci-link">
-                                            <a href="#" rel="nofollow noopener" target="_blank">See Map</a>
+                                            <a href="https://maps.app.goo.gl/qpqeUt9RfbJAC7JE6" rel="nofollow noopener" target="_blank">See Map</a>
                                         </div>
                                     </div>
                                     <!-- End Address -->
@@ -252,10 +252,10 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                             Email
                                         </h4>
                                         <div class="ci-text large">
-                                            support@businessforlife.com
+                                            businessforlife@empoweringlives.org
                                         </div>
                                         <div class="ci-link">
-                                            <a href="mailto:support@businessforlife.com">Say Hello</a>
+                                            <a href="mailto:businessforlife@empoweringlives.org">Say Hello</a>
                                         </div>
                                     </div>
                                     <!-- End Email -->
@@ -271,10 +271,10 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                             Phone
                                         </h4>
                                         <div class="ci-text large">
-                                            +254 723 014 032
+                                            +254 721 179 061
                                         </div>
                                         <div class="ci-link">
-                                            <a href="tel:+254 723 014 032">Call now</a>
+                                            <a href="tel:+254 721 179 061">Call now</a>
                                         </div>
                                     </div>
                                     <!-- End Phone -->
@@ -329,7 +329,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                                 <!-- Inform Tip -->
                                                 <div class="form-tip w-100 pt-3">
                                                     <i class="icon-info size-16"></i>
-                                                    All the fields are required. By sending the form you agree to the <a href="#">Terms & Conditions</a> and <a href="#">Privacy Policy</a>.
+                                                    All the fields are required. By sending the form you agree to the <a href="{{url('/')}}/terms-and-conditions">Terms & Conditions</a> and <a href="{{url('/')}}/privacy-policy">Privacy Policy</a>.
                                                 </div>
                                                 <!-- End Inform Tip -->
 

@@ -435,13 +435,10 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
 
                             <!-- Post Item -->
                             <div class="post-prev col-md-6 col-lg-4 mt-30 wow fadeInLeft" data-wow-delay="0.2s">
-
-
                                     <div class="post-prev-img image-updates">
                                         <a href="#"><img src="{{url('/')}}/uploads/Class-discussion.jpg" alt="Add Image Description"></a>
                                         <span class="overlay-text">Empowering <br> Our <br> Alumni</span>
                                     </div>
-
                             </div>
                             <!-- End Post Item -->
 
