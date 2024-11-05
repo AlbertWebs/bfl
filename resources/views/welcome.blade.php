@@ -362,6 +362,32 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                         <!-- End Portfolio Item -->
 
                                         <!-- Portfolio Item -->
+                                        <div class="portfolio-2-item mb-100 mb-sm-50 mix development">
+                                            <div class="row wow-p fadeInUp">
+                                                <div class="col-md-6">
+                                                    <hr class="black thick mt-0 mb-20 d-none d-md-block">
+                                                    <h3 class="portfolio-2-title font-alt mb-20" >Mentorship</h3>
+                                                    <p class="section-descr">
+
+                                                        The Business For Life offers <strong style="color:#30676e;">a comprehensive Business Mentorship Program</strong> aimed at empowering entrepreneurs and small business owners with the tools and knowledge necessary for sustainable growth. This program connects experienced business professionals with mentees who are seeking guidance in areas like business strategy, financial management, operations, and marketing.
+
+
+                                                    </p>
+                                                    <div class="wow fadeInUp" data-wow-delay="0.6s" data-wow-offset="0">
+                                                        <a href="{{url('/')}}/business-training-mentorship" class="btn btn-mod btn-large btn-theme  btn-circle" data-btn-animate="y">Learn More</a>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6 mb-sm-30">
+                                                    <div class="portfolio-2-image round-large-radius">
+                                                        <br><br>
+                                                        <a href="#"><img class="round-large-radius" src="{{asset('uploads/Class-discussion.jpg')}}" alt="Business Training & Mentorship"></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- End Portfolio Item -->
+
+                                        <!-- Portfolio Item -->
                                         <div class="portfolio-2-item mb-100 mb-sm-50 mix branding">
                                             <div class="row wow-p fadeInUp">
                                                 <div class="col-md-6">
@@ -654,28 +680,28 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                     <dt>
                                         <a href="#" style="color: #c26940;">What is BFL, and what services do you provide?</a>
                                     </dt>
-                                    <dd class="blacks" style="color:#30676e !important">
+                                    <dd class="blacks" style="color:#30676e !important; font-weight:600 !important; ">
                                         FL is a [description of BFL's focus or industry, e.g., a financial services company, logistics firm, etc.]. We specialize in [list key services/products], including [examples of specific offerings that BFL provides].
                                     </dd>
 
                                     <dt>
                                         <a style="color: #c26940;" href="#">How can i support BFL?</a>
                                     </dt>
-                                    <dd class="black">
+                                   <dd class="blacks" style="color:#30676e !important; font-weight:600 !important; ">
                                         To apply for [product/service], you can visit our website at businessforlife.com and fill out an online application form. Alternatively, you can contact us directly at [contact info] or visit our offices located at [physical address].
                                     </dd>
 
                                     <dt>
                                         <a style="color: #c26940;" href="#">What is BFL's success rate?</a>
                                     </dt>
-                                    <dd class="black">
+                                   <dd class="blacks" style="color:#30676e !important; font-weight:600 !important; ">
                                         To apply for [product/service], you can visit our website at businessforlife.com and fill out an online application form. Alternatively, you can contact us directly at [contact info] or visit our offices located at [physical address].
                                     </dd>
 
                                     <dt>
                                         <a style="color: #c26940;" href="#">How can BFL serve my organization?</a>
                                     </dt>
-                                    <dd class="black">
+                                   <dd class="blacks" style="color:#30676e !important; font-weight:600 !important; ">
                                         The eligibility criteria depend on the specific product or service you're interested in. Generally, you need to provide [requirements, such as documentation, qualifications, etc.]. For detailed requirements, please visit [service/product page URL] or contact our customer service team.
                                     </dd>
 
