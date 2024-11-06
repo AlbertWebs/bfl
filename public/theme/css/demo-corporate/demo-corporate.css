@@ -96,9 +96,9 @@ hr:not([size]){
     top: calc(50% + 1em);
     left: 1px;
     display: block;
-    width: 64px;
+    width: 84px;
     height: 4px;
-    background: var(--color-primary-light-3);
+    background: linear-gradient(to right, #c26940 70%, #30676e  100%);
     /* border-radius: 50%; */
     transform: scale(0);
     transition: transform .2s var(--ease-default);
@@ -364,10 +364,11 @@ a.btn-mod{
     background-image: linear-gradient( 45deg, var(--color-primary-light-1) 0%, transparent 100%);
 }
 .section-title{
-    font-size: 56px;
-    font-weight: 500;
-    line-height: 1.25;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 2.25;
     letter-spacing: -0.017em;
+    text-transform:uppercase;
 }
 .section-title-small{
     font-size: 42px;

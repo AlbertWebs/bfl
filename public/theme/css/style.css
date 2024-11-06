@@ -176,8 +176,8 @@ Primary use: Multipurpose Template
     --full-wrapper-margin-x: 30px;
     --container-width: 1350px;
     --section-padding-y: 120px;
-    --menu-bar-height: 85px;
-    --menu-bar-height-scrolled: 65px;
+    --menu-bar-height: 95px;
+    --menu-bar-height-scrolled: 75px;
     --color-dark-1: #010101;
     --color-dark-2: #171717;
     --color-dark-3: #272727;
@@ -3502,7 +3502,7 @@ html:not(.mobile) .wow-p{
 .nav-logo-wrap .logo{
     display: flex;
     align-items: center;
-    max-width: 300px;
+    max-width: 170px;
     height: var(--menu-bar-height);
     transition: all 0.2s cubic-bezier(0.000, 0.000, 0.580, 1.000);
 }
@@ -4028,7 +4028,8 @@ a.logo:hover{
     display: none;
 }
 .main-nav.dark{
-    background-color: rgba(10,10,10, .905);
+    /* background-color: rgba(10,10,10, .905);  */
+    background-color: rgba(26, 56, 60, 0.8);
     box-shadow: none;
 
     -webkit-box-shadow: none;

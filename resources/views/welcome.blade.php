@@ -49,7 +49,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
         <div class="page" id="top">
 
             <!-- Navigation Panel -->
-             <nav class="main-nav dark transparent stick-fixed wow-menubar">
+             <nav class="main-nav dark transparent stick-fixed wow-menubar" >
                 <div class="main-nav-sub full-wrapper">
 
                     <!-- Logo  (* Add your text or image to the link tag. Use SVG or PNG image format.
@@ -57,7 +57,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                     image size for support of retina screens. See details in the template documentation. *) -->
                     <div class="nav-logo-wrap local-scroll">
                         <a href="#top" class="logo font-alt">
-                            <img src="{{asset('uploads/BFL-Logo.png')}}" alt="BFL Logo"  >
+                            <img src="{{asset('uploads/logo-svg.png')}}" alt="BFL Logo"  >
                         </a>
                     </div>
 
@@ -680,29 +680,36 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                     <dt>
                                         <a href="#" style="color: #c26940;">What is BFL, and what services do you provide?</a>
                                     </dt>
-                                    <dd class="blacks" style="color:#30676e !important; font-weight:600 !important; ">
-                                        FL is a [description of BFL's focus or industry, e.g., a financial services company, logistics firm, etc.]. We specialize in [list key services/products], including [examples of specific offerings that BFL provides].
+                                    <dd class="blacks" style="color:#30676e !important; font-weight:400 !important; ">
+                                        Business for life empowers poor, marginalized and disadvantaged people to start and run sustainable businesses through effective business training.  After the completion of the course, the business skills learned are enhanced through business mentorship and alumni care.
                                     </dd>
 
                                     <dt>
                                         <a style="color: #c26940;" href="#">How can i support BFL?</a>
                                     </dt>
-                                   <dd class="blacks" style="color:#30676e !important; font-weight:600 !important; ">
-                                        To apply for [product/service], you can visit our website at businessforlife.com and fill out an online application form. Alternatively, you can contact us directly at [contact info] or visit our offices located at [physical address].
+                                   <dd class="blacks" style="color:#30676e !important; font-weight:400 !important; ">
+                                    As business for life targets those who are poor and unable to fund their own training, business courses, mentorship and alumni support rely heavily on donations.   Join business for life in changing lives by giving the gift of business training to:
+
+                                        <ul>
+                                            <li>an individual - $300 trains one business owner and impacts an average of 10 family members</li>
+                                            <li>a full class - $7500 trains an entire class of 25 business owners and impacts 250 lives</li>
+                                            <li>an entire community - $30,000 trains $100 business owners, which changes 1000 individuals and impacts a whole community</li>
+
+                                        </ul>
                                     </dd>
 
                                     <dt>
                                         <a style="color: #c26940;" href="#">What is BFL's success rate?</a>
                                     </dt>
-                                   <dd class="blacks" style="color:#30676e !important; font-weight:600 !important; ">
-                                        To apply for [product/service], you can visit our website at businessforlife.com and fill out an online application form. Alternatively, you can contact us directly at [contact info] or visit our offices located at [physical address].
+                                   <dd class="blacks" style="color:#30676e !important; font-weight:400 !important; ">
+                                    In the 12 countries where the business for life courses have been facilitated, over 80% of those who have completed the training in both urban and rural communities, are still running profitable businesses one year later.
                                     </dd>
 
                                     <dt>
                                         <a style="color: #c26940;" href="#">How can BFL serve my organization?</a>
                                     </dt>
-                                   <dd class="blacks" style="color:#30676e !important; font-weight:600 !important; ">
-                                        The eligibility criteria depend on the specific product or service you're interested in. Generally, you need to provide [requirements, such as documentation, qualifications, etc.]. For detailed requirements, please visit [service/product page URL] or contact our customer service team.
+                                   <dd class="blacks" style="color:#30676e !important; font-weight:400 !important; ">
+                                    Community development requires empowerment on many levels.  Business for life, due to expertise, experience and proven success in this area; can partner with your organization by providing the economic empowerment aspect.
                                     </dd>
 
 
