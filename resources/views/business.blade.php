@@ -57,7 +57,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                     image size for support of retina screens. See details in the template documentation. *) -->
                     <div class="nav-logo-wrap local-scroll">
                         <a href="{{url('/')}}" class="logo font-alt">
-                            <img src="{{asset('uploads/BFL-Logo.png')}}" alt="BFL Logo"  >
+                            <img src="{{asset('uploads/logo-svg.png')}}" alt="BFL Logo"  >
                         </a>
                     </div>
 

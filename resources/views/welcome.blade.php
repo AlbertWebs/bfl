@@ -73,7 +73,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                             {{-- <li><a href="#home" class="active">Home</a></li> --}}
                             <li><a href="#about">Who We Are</a></li>
                             <li><a href="#programs">What We Do</a></li>
-                            <li><a href="#portfolio">Impact Stories</a></li>
+                            <li><a href="{{url('/')}}/impact-stories">Impact Stories</a></li>
                             <li><a href="#blog"> Updates</a></li>
                             <li><a href="#contact">Contact</a></li>
 
