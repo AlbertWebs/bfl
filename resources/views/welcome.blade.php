@@ -366,9 +366,9 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                             <div class="row wow-p fadeInUp">
                                                 <div class="col-md-6">
                                                     <hr class="black thick mt-0 mb-20 d-none d-md-block">
-                                                    <h3 class="portfolio-2-title font-alt mb-20" >Mentorship</h3>
+                                                    <h3 class="portfolio-2-title font-alt mb-20" >Mentoring</h3>
                                                     <p class="section-descr">
-                                                        The Business For Life offers <strong style="color:#30676e;">a comprehensive Business Mentorship Program</strong> aimed at empowering entrepreneurs and small business owners with the tools and knowledge necessary for sustainable growth. This program connects experienced business professionals with mentees who are seeking guidance in areas like business strategy, financial management, operations, and marketing.
+                                                        BFL ensures ongoing support and accountability for participants after their initial training. Through regular engagements, mentors track progress, address challenges, and provide additional guidance. These follow-ups help mentees stay on course, refine their business strategies, and continue growing towards financial independence and success.
                                                     </p>
                                                     <div class="wow fadeInUp" data-wow-delay="0.6s" data-wow-offset="0">
                                                         <a href="{{url('/')}}/business-training-mentorship" class="btn btn-mod btn-large btn-theme  btn-circle" data-btn-animate="y">Learn More</a>
@@ -386,6 +386,11 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                         <!-- Portfolio Item -->
                                         <div class="portfolio-2-item mb-100 mb-sm-50 mix branding">
                                             <div class="row wow-p fadeInUp">
+                                                <div class="col-md-6 mb-sm-30 order-first order-md-last">
+                                                    <div class="portfolio-2-image">
+                                                        <a href="#"><img src="{{asset('uploads/alumni.jpg')}}" alt="Mentees Follow Ups"></a>
+                                                    </div>
+                                                </div>
                                                 <div class="col-md-6">
                                                     <hr class="black thick mt-0 mb-20 d-none d-md-block">
                                                     <h3 class="portfolio-2-title font-alt mb-20">Alumni</h3>
@@ -393,11 +398,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                                         BFL ensures ongoing support and accountability for participants after their initial training. Through regular engagements, mentors track progress, address challenges, and provide additional guidance. These follow-ups help mentees stay on course, refine their business strategies, and continue growing towards financial independence and success.
                                                     </p>
                                                 </div>
-                                                <div class="col-md-6 mb-sm-30 order-first order-md-last">
-                                                    <div class="portfolio-2-image">
-                                                        <a href="#"><img src="{{asset('uploads/alumni.jpg')}}" alt="Mentees Follow Ups"></a>
-                                                    </div>
-                                                </div>
+
                                             </div>
                                         </div>
                                         <!-- End Portfolio Item -->
