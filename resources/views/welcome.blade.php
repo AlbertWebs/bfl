@@ -234,7 +234,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                         <div class="row" style="margin:0 auto">
                             <div class="col-md-10 col-lg-10 col-xl-10" style="margin:0 auto; text-align:center">
 
-                                <h2 class="section-title mb-40 mb-xs-30">What makes us  <span class="mark-decoration-5">different</span> </h2>
+                                <h2 class="section-title mb-40 mb-xs-30">What makes us  <span class="mark-decoration-5s">different</span> </h2>
 
                                 <p class="section-descr mb-50 mb-sm-40">
                                     <span style="color: #c26940; font-size:45px; font-weight:900">Business For life uses a distinctive training methodology:</span> <br><br>
