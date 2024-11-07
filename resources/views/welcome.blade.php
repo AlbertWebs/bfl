@@ -376,7 +376,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                                 </div>
                                                 <div class="col-md-6 mb-sm-30">
                                                     <div class="portfolio-2-image round-large-radius">
-                                                        <a href="#"><img class="round-large-radius" src="{{asset('uploads/Class-discussion.jpg')}}" alt="Business Training & Mentorship"></a>
+                                                        <a href="#"><img class="round-large-radius" src="{{asset('uploads/mentorship.jpg')}}" alt="Business Training & Mentorship"></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -395,7 +395,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                                 </div>
                                                 <div class="col-md-6 mb-sm-30 order-first order-md-last">
                                                     <div class="portfolio-2-image">
-                                                        <a href="#"><img src="{{asset('uploads/pexels-gabby-k-9490629.jpg')}}" alt="Mentees Follow Ups"></a>
+                                                        <a href="#"><img src="{{asset('uploads/alumni.jpg')}}" alt="Mentees Follow Ups"></a>
                                                     </div>
                                                 </div>
                                             </div>
