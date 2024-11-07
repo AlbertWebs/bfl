@@ -349,7 +349,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                                 </div>
                                                 <div class="col-md-6">
                                                     <hr class="black thick mt-0 mb-20 d-none d-md-block">
-                                                    <h3 class="portfolio-2-title font-alt mb-20" >Business Training and Mentoring</h3>
+                                                    <h3 class="portfolio-2-title font-alt mb-20" >Business Training</h3>
                                                     <p class="section-descr">
                                                         The <strong style="color:#30676e;">Business For Life training</strong> is practical and interactive with participants implementing what they have learned during the course.  Because business skills are primarily caught not taught, all courses are facilitated by local entrepreneurs with business experience.  For six months after the end of the course, each participant is personally mentored.
                                                     </p>
