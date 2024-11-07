@@ -417,14 +417,14 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                 <section class="page-section bg-gradient-gray-light-1" id="blog" style="padding-top:0px">
                     <div class="row wow fadeInRight" >
                         <div class="col-md-12 col-lg-12 top-heading-left">
-                            <h2 class="section-title mb-30 mb-sm-20"><span class="theme-color"></span>Updates.<span class="text-black"></span></h2>
+                            <h2 class="section-title mb-30 mb-sm-20"><span class="theme-color"></span>Updates<span class="text-black"></span></h2>
                         </div>
                     </div>
                     <div class="container" style="padding-top:140px">
                         <div class="row mb-80 mb-sm-60">
                             <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2 text-center">
                                 <p class="section-descr mb-0">
-                                    Stay up to date with the latest news, stories, and important updates. Explore insights, key developments, and events as they unfold, keeping you informed and connected to what matters most
+                                    Stay up to date with the latest news, stories, and important updates. Explore insights, key developments, and events as they unfold, keeping you informed and connected to what matters most.
                                 </p>
                             </div>
                         </div>
