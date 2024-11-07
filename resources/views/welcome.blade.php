@@ -134,7 +134,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                         <div class="home-content pt-20 pt-md-0 text-center">
 
                             <h1 class="hs-title-44 font-alt mb-60 mb-sm-40"><span class="wow charsAnimIn" data-splitting="chars">Transforming lives through business training</span></h1>
-                            <h2 class="section-title-tiny font-alt mb-40 mb-sm-30 wow charsAnimIn" data-splitting="chars" style="font-size:30px">Business Skills Training shouldn’t just be for <br> those who can afford it</h2>
+                            <h2 class="section-title-tiny font-alt mb-40 mb-sm-30 wow charsAnimIn" data-splitting="chars" style="font-size:30px">Equipping those struggling to survive to unlock their potential and build  fulfilling and prosperous lives</h2>
 
 
 
