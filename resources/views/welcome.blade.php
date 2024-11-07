@@ -667,9 +667,9 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
 
                             <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
 
-                                <h3 class="section-title text-center mb-80 mb-sm-60" style="color: #c26940;">
+                                <h2 class="section-title text-center mb-80 mb-sm-60" style="color: #c26940;">
                                     Frequently Asked Questions
-                                </h3>
+                                </h2>
 
                                 <!-- Accordion -->
                                 <dl class="toggle">
@@ -690,7 +690,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                         <ul>
                                             <li>an individual - $300 trains one business owner and impacts an average of 10 family members</li>
                                             <li>a full class - $7500 trains an entire class of 25 business owners and impacts 250 lives</li>
-                                            <li>an entire community - $30,000 trains $100 business owners, which changes 1000 individuals and impacts a whole community</li>
+                                            <li>an entire community - $30,000 trains 100 business owners, which changes 1000 individuals and impacts a whole community</li>
 
                                         </ul>
                                     </dd>
@@ -706,7 +706,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                         <a style="color: #c26940;" href="#">How can BFL serve my organization?</a>
                                     </dt>
                                    <dd class="blacks" style="color:#30676e !important; font-weight:400 !important; ">
-                                    Community development requires empowerment on many levels.  Business for life, due to expertise, experience and proven success in this area; can partner with your organization by providing the economic empowerment aspect.
+                                    Community development requires empowerment on many levels.  Business for life, due to expertise, experience and proven success in this area can partner with your organization by providing the economic empowerment aspect.
                                     </dd>
 
 
