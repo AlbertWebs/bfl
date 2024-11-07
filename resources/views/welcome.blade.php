@@ -343,7 +343,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                             <div class="row wow-p fadeInUp">
                                                 <div class="col-md-6 mb-sm-30">
                                                     <div class="portfolio-2-image round-large-radius">
-                                                        <br><br>
+
                                                         <a href="#"><img class="round-large-radius" src="{{asset('uploads/Class-discussion.jpg')}}" alt="Business Training & Mentorship"></a>
                                                     </div>
                                                 </div>
@@ -368,10 +368,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                                     <hr class="black thick mt-0 mb-20 d-none d-md-block">
                                                     <h3 class="portfolio-2-title font-alt mb-20" >Mentorship</h3>
                                                     <p class="section-descr">
-
                                                         The Business For Life offers <strong style="color:#30676e;">a comprehensive Business Mentorship Program</strong> aimed at empowering entrepreneurs and small business owners with the tools and knowledge necessary for sustainable growth. This program connects experienced business professionals with mentees who are seeking guidance in areas like business strategy, financial management, operations, and marketing.
-
-
                                                     </p>
                                                     <div class="wow fadeInUp" data-wow-delay="0.6s" data-wow-offset="0">
                                                         <a href="{{url('/')}}/business-training-mentorship" class="btn btn-mod btn-large btn-theme  btn-circle" data-btn-animate="y">Learn More</a>
@@ -379,7 +376,6 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                                 </div>
                                                 <div class="col-md-6 mb-sm-30">
                                                     <div class="portfolio-2-image round-large-radius">
-                                                        <br><br>
                                                         <a href="#"><img class="round-large-radius" src="{{asset('uploads/Class-discussion.jpg')}}" alt="Business Training & Mentorship"></a>
                                                     </div>
                                                 </div>
