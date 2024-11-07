@@ -639,37 +639,22 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                 </section>
                 <!-- End Contact Section -->
 
-                 <!-- Google Map -->
-                 <div class="google-map">
 
-                    <a href="#" class="map-section">
-                        <div class="map-toggle wow fadeInUpShort" aria-hidden="true">
-                            <div class="mt-icon">
-                                <i class="mi-location"></i>
-                            </div>
-                            <div class="mt-text">
-                                <div class="mt-open">Open the map <i class="mt-open-icon"></i></div>
-                                <div class="mt-close">Close the map <i class="mt-close-icon"></i></div>
-                            </div>
-                        </div>
-                    </a>
-
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d426.21116951397175!2d36.75433370367086!3d-1.3001102594562906!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f1b00389d3b57%3A0x8e4c921c3610dd84!2sBusiness%20For%20Life!5e1!3m2!1sen!2ske!4v1729765292707!5m2!1sen!2ske" width="600" height="450" loading="lazy" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-
-                </div>
-                <!-- End Google Map -->
 
                 <!-- FAQ Section -->
-                <section class="page-section">
-                    <div class="container position-relative">
+                <section class="page-section bg-gradient-gray-light-1" id="faq" style="padding-top:0px">
+                    <div class="row wow fadeInRight" >
+                        <div class="col-md-12 col-lg-12 top-heading-left">
+                            <h2 class="section-title mb-30 mb-sm-20"><span class="theme-color"></span>Frequently Asked Questions<span class="text-black"></span></h2>
+                        </div>
+                    </div>
+                    <div class="container position-relative" style="padding-top:140px">
 
                         <div class="row position-relative">
 
                             <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
 
-                                <h2 class="section-title text-center mb-80 mb-sm-60" style="color: #c26940;">
-                                    Frequently Asked Questions
-                                </h2>
+
 
                                 <!-- Accordion -->
                                 <dl class="toggle">
