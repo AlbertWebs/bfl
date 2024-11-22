@@ -383,22 +383,26 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                         </div>
                                         <!-- End Portfolio Item -->
 
+
                                         <!-- Portfolio Item -->
-                                        <div class="portfolio-2-item mb-100 mb-sm-50 mix branding">
+                                        <div class="portfolio-2-item mb-100 mb-sm-50 mix development">
                                             <div class="row wow-p fadeInUp">
-                                                <div class="col-md-6 mb-sm-30 order-first order-md-last">
-                                                    <div class="portfolio-2-image">
-                                                        <a href="#"><img src="{{asset('uploads/alumni.jpg')}}" alt="Mentees Follow Ups"></a>
+                                                <div class="col-md-6 mb-sm-30">
+                                                    <div class="portfolio-2-image round-large-radius">
+
+                                                        <a href="#"><img class="round-large-radius" src="{{asset('uploads/alumni.jpg')}}" alt="Business Training & Mentorship"></a>
                                                     </div>
                                                 </div>
                                                 <div class="col-md-6">
                                                     <hr class="black thick mt-0 mb-20 d-none d-md-block">
-                                                    <h3 class="portfolio-2-title font-alt mb-20">Alumni</h3>
+                                                    <h3 class="portfolio-2-title font-alt mb-20" >Business Training</h3>
                                                     <p class="section-descr">
-                                                        BFL ensures ongoing support and accountability for participants after their initial training. Through regular engagements, mentors track progress, address challenges, and provide additional guidance. These follow-ups help mentees stay on course, refine their business strategies, and continue growing towards financial independence and success.
-                                                    </p>
-                                                </div>
+                                                        BFL organizes regional <strong style="color:#30676e;">alumni events</strong> for those who have completed the course and mentorship.
 
+                                                        During these events, the business owners have an opportunity to interact and learn from each other’s successes and challenges.  This is complimented by guest speakers who present a topic to add value to the alumni’s’ developing business.  These events are a source of ongoing equipping as well as inspiration for those who attend.
+                                                    </p>
+
+                                                </div>
                                             </div>
                                         </div>
                                         <!-- End Portfolio Item -->
@@ -424,7 +428,8 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                         <div class="row mb-80 mb-sm-60">
                             <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2 text-center">
                                 <p class="section-descr mb-0">
-                                    Stay up to date with the latest news, stories, and important updates. Explore insights, key developments, and events as they unfold, keeping you informed and connected to what matters most.
+                                    {{-- Stay up to date with the latest news, stories, and important updates. Explore insights, key developments, and events as they unfold, keeping you informed and connected to what matters most. --}}
+                                    Stay up to date with the latest news, stories, and important updates. Explore insights, key developments, and events as they unfold, keeping you informed and connected to what matters most
                                 </p>
                             </div>
                         </div>
@@ -460,7 +465,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                             <div class="post-prev col-md-6 col-lg-4 mt-30 wow fadeInLeft" data-wow-delay="0.2s">
                                     <div class="post-prev-img image-updates">
                                         <a href="#"><img src="{{url('/')}}/uploads/Class-discussion.jpg" alt="Add Image Description"></a>
-                                        <span class="overlay-text">Empowering <br> Our <br> Alumni</span>
+                                        <span class="overlay-text">Empowering Our Alumni</span>
                                     </div>
                             </div>
                             <!-- End Post Item -->
