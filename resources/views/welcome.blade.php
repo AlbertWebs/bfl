@@ -395,7 +395,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                                 </div>
                                                 <div class="col-md-6">
                                                     <hr class="black thick mt-0 mb-20 d-none d-md-block">
-                                                    <h3 class="portfolio-2-title font-alt mb-20" >Business Training</h3>
+                                                    <h3 class="portfolio-2-title font-alt mb-20" >Alumni</h3>
                                                     <p class="section-descr">
                                                         BFL organizes regional <strong style="color:#30676e;">alumni events</strong> for those who have completed the course and mentorship.
 
