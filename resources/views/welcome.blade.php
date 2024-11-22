@@ -12,7 +12,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
 
         <!-- Favicon -->
         <link rel="icon" href="{{asset('theme/images/favicon.png')}}" type="image/png" sizes="any">
-        <link rel="icon" href="{{asset('theme/images/favicon.svg')}}" type="image/svg+xml">
+        <link rel="icon" href="{{asset('theme/images/favicon.png')}}" type="image/svg+xml">
 
         <!-- CSS -->
         <link rel="stylesheet" href="{{asset('theme/css/bootstrap.min.css')}}">
@@ -57,7 +57,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                     image size for support of retina screens. See details in the template documentation. *) -->
                     <div class="nav-logo-wrap local-scroll">
                         <a href="#top" class="logo font-alt">
-                            <img src="{{asset('uploads/logo-svg.png')}}" alt="BFL Logo"  >
+                            <img src="{{asset('uploads/business-for-life-logo.png')}}" alt="BFL Logo"  >
                         </a>
                     </div>
 
