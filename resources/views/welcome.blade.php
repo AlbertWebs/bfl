@@ -73,7 +73,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                             {{-- <li><a href="#home" class="active">Home</a></li> --}}
                             <li><a href="#about">Who We Are</a></li>
                             <li><a href="#programs">What We Do</a></li>
-                            <li><a href="{{url('/')}}/impact-stories">Impact Stories</a></li>
+                            <li><a href="#impact-stories">Impact Stories</a></li>
                             <li><a href="#blog"> Updates</a></li>
                             <li><a href="#contact">Contact</a></li>
 
@@ -406,9 +406,6 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                             </div>
                                         </div>
                                         <!-- End Portfolio Item -->
-
-
-
                                     </div>
                                     <!-- End Portfolio Grid -->
 
@@ -416,6 +413,72 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                     </div>
                 </section>
                 <!-- End Portfolio Section -->
+
+                <!-- Blog Section -->
+                <section class="page-section bg-gradient-gray-light-2" id="impact-stories" style="padding-top:0px">
+
+                    <div class="row wow fadeInLeft" >
+                        <div class="col-md-12 col-lg-12 top-heading-right">
+                            <h2 class="section-title mb-30 mb-sm-20"><span class="theme-color"></span>Impact Stories<span class="text-black"></span></h2>
+                        </div>
+                    </div>
+                    <div class="container position-relative" style="padding-top:140px">
+                        <div class="row mb-80 mb-sm-60">
+                            <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2 text-center">
+                                <p class="section-descr mb-0">
+                                    {{-- Stay up to date with the latest news, stories, and important updates. Explore insights, key developments, and events as they unfold, keeping you informed and connected to what matters most. --}}
+                                    Discover inspiring impact stories that showcase transformation, innovation, and resilience. Explore real-life successes that highlight our commitment to empowering businesses and communities, driving meaningful change for a better and brighter future.
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="row mt-n30 ">
+
+                            <!-- Post Item -->
+                            <div class=" post-prev col-md-6 col-lg-3 mt-30 wow fadeInLeft" data-wow-delay="0">
+
+                                            <iframe style="height:400px; width:100%; object-fit:cover; border-radius:10px;" src="https://www.youtube.com/embed/jTea_8Fk5Ns" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+
+                            </div>
+                            <!-- End Post Item -->
+
+                             <!-- Post Item -->
+                             <div class=" post-prev col-md-6 col-lg-3 mt-30 wow fadeInLeft" data-wow-delay="0">
+
+                                <iframe style="height:400px; width:100%; object-fit:cover; border-radius:10px;" src="https://www.youtube.com/embed/jTea_8Fk5Ns" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+
+                            </div>
+                            <!-- End Post Item -->
+
+                            <!-- Post Item -->
+                            <div class=" post-prev col-md-6 col-lg-3 mt-30 wow fadeInLeft" data-wow-delay="0">
+
+                                            <iframe style="height:400px; width:100%; object-fit:cover; border-radius:10px;" src="https://www.youtube.com/embed/jTea_8Fk5Ns" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+
+                            </div>
+                            <!-- End Post Item -->
+
+                            <!-- Post Item -->
+                            <div class=" post-prev col-md-6 col-lg-3 mt-30 wow fadeInLeft" data-wow-delay="0">
+
+                                <iframe style="height:400px; width:100%; object-fit:cover; border-radius:10px;" src="https://www.youtube.com/embed/jTea_8Fk5Ns" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+
+                            </div>
+                            <!-- End Post Item -->
+
+                        </div>
+                        <br>
+                        <div class="wow fadeInUp animated" data-wow-delay="0.6s" data-wow-offset="0" style="margin:0 auto; text-align:center; visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
+                            <a style="margin:0 auto; text-align:center" href="{{url('/')}}/impact-stories" class="btn btn-mod btn-large btn-theme  btn-circle" data-btn-animate="y"><span class="btn-animate-y"><span class="btn-animate-y-1">More Stories</span><span class="btn-animate-y-2" aria-hidden="true">Learn More</span></span></a>
+                        </div>
+
+                    </div>
+                </section>
+                <!-- End Blog Section -->
 
                 <!-- Blog Section -->
                 <section class="page-section bg-gradient-gray-light-1" id="blog" style="padding-top:0px">
@@ -788,6 +851,26 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
         <script src="{{asset('theme/js/contact-form.js')}}"></script>
         <script src="{{asset('theme/js/all.js')}}"></script>
         <!-- End JS -->
+        <script>
+        $('.owl-carousel').owlCarousel({
+            autoplay:true,
+            loop:true,
+            margin:10,
+            nav:true,
+            responsive:{
+                0:{
+                    items:1
+                },
+                600:{
+                    items:1
+                },
+                1000:{
+                    items:1
+                }
+            }
+        })
+        </script>
+
 
     </body>
 </html>
