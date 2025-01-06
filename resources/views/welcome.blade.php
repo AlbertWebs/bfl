@@ -237,7 +237,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                 <h2 class="section-title mb-40 mb-xs-30">What makes us  <span class="mark-decoration-5s">different</span> </h2>
 
                                 <p class="section-descr mb-50 mb-sm-40">
-                                    <span style="color: #c26940; font-size:45px; font-weight:900">Business For life uses a distinctive training methodology:</span> <br><br>
+                                    <span style="color: #c26940; font-size:45px; font-weight:900">Business For Life uses a distinctive training methodology:</span> <br><br>
 
                                     - Facilitators are local entrepreneurs with personal business experience<br>
                                     - Training is practical and interactive<br>
@@ -724,14 +724,14 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                         <a href="#" style="color: #c26940;">What is BFL, and what services do you provide?</a>
                                     </dt>
                                     <dd class="blacks" style="color:#30676e !important; font-weight:400 !important; ">
-                                        Business for life empowers poor, marginalized and disadvantaged people to start and run sustainable businesses through effective business training.  After the completion of the course, the business skills learned are enhanced through business mentorship and alumni care.
+                                        Business For Life empowers poor, marginalized and disadvantaged people to start and run sustainable businesses through effective business training.  After the completion of the course, the business skills learned are enhanced through business mentorship and alumni care.
                                     </dd>
 
                                     <dt>
                                         <a style="color: #c26940;" href="#">How can i support BFL?</a>
                                     </dt>
                                    <dd class="blacks" style="color:#30676e !important; font-weight:400 !important; ">
-                                    As business for life targets those who are poor and unable to fund their own training, business courses, mentorship and alumni support rely heavily on donations.   Join business for life in changing lives by giving the gift of business training to:
+                                    As Business For Life targets those who are poor and unable to fund their own training, business courses, mentorship and alumni support rely heavily on donations.   Join Business For Life in changing lives by giving the gift of business training to:
 
                                         <ul>
                                             <li>an individual - $300 trains one business owner and impacts an average of 10 family members</li>
@@ -745,14 +745,14 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                         <a style="color: #c26940;" href="#">What is BFL's success rate?</a>
                                     </dt>
                                    <dd class="blacks" style="color:#30676e !important; font-weight:400 !important; ">
-                                    In the 12 countries where the business for life courses have been facilitated, over 80% of those who have completed the training in both urban and rural communities, are still running profitable businesses one year later.
+                                    In the 12 countries where the Business For Life courses have been facilitated, over 80% of those who have completed the training in both urban and rural communities, are still running profitable businesses one year later.
                                     </dd>
 
                                     <dt>
                                         <a style="color: #c26940;" href="#">How can BFL serve my organization?</a>
                                     </dt>
                                    <dd class="blacks" style="color:#30676e !important; font-weight:400 !important; ">
-                                    Community development requires empowerment on many levels.  Business for life, due to expertise, experience and proven success in this area can partner with your organization by providing the economic empowerment aspect.
+                                    Community development requires empowerment on many levels.  Business For Life, due to expertise, experience and proven success in this area can partner with your organization by providing the economic empowerment aspect.
                                     </dd>
 
 
