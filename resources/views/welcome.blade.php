@@ -86,9 +86,10 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
 
                             <!-- Social Links -->
                             <li>
-                                <a href="#" class="no-hover opacity-1 pe-1 text-white"><span class="mn-soc-link mn-soc-link-color text-white" title="Facebook"><i class="fab fa-facebook"></i></span> <span class="mobile-nav-display-i">Facebook</span></a>
-                                <a href="#" class="no-hover opacity-1 pe-1 text-white"><span class="mn-soc-link mn-soc-link-color text-white" title="LinkedIn"><i class="fab fa-linkedin"></i></span> <span class="mobile-nav-display-i">LinkedIn</span></a>
-                                <a href="#" class="no-hover opacity-1 text-white"><span class="mn-soc-link mn-soc-link-color text-white" title="Youtube"><i class="fab fa-youtube"></i></span> <span class="mobile-nav-display-i">Youtube</span></a>
+                                <a href="https://web.facebook.com/empoweringlives.org/about" class="no-hover opacity-1 pe-1 text-white"><span class="mn-soc-link mn-soc-link-color text-white" title="Facebook"><i class="fab fa-facebook"></i></span> <span class="mobile-nav-display-i">Facebook</span></a>
+                                <a href="https://www.linkedin.com/company/business-for-life-kenya/" class="no-hover opacity-1 pe-1 text-white"><span class="mn-soc-link mn-soc-link-color text-white" title="LinkedIn"><i class="fab fa-linkedin"></i></span> <span class="mobile-nav-display-i">LinkedIn</span></a>
+                                <a href="https://www.instagram.com/businessfor.life/" class="no-hover opacity-1 pe-1 text-white"><span class="mn-soc-link mn-soc-link-color text-white" title="Instagram"><i class="fab fa-instagram"></i></span> <span class="mobile-nav-display-i">Instagram</span></a>
+                                <a href="https://www.youtube.com/channel/UCa3vKEEhEbasv6qZ8G9fb9g" class="no-hover opacity-1 text-white"><span class="mn-soc-link mn-soc-link-color text-white" title="Youtube"><i class="fab fa-youtube"></i></span> <span class="mobile-nav-display-i">Youtube</span></a>
                             </li>
                         </ul>
 
@@ -121,7 +122,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                         <!-- Please replace the video file in folder "video" with your own file -->
                         <div class="bg-video-wrapper">
                             <video class="bg-video" preload="auto" autoplay="" loop="" muted="" playsinline="">
-                                <source src="{{asset('uploads/video.mp4')}}" type="video/mp4">
+                                <source src="{{asset('uploads/bfl-reel.mp4')}}" type="video/mp4">
                             </video>
                             {{-- <div class="bg-video-overlay bg-dark-alpha-30"></div> --}}
                             <div class="bg-video-overlay bg-dark-alpha-80"></div>
@@ -788,19 +789,19 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                             <div class="col-lg-6 fw-social-inline text-center mb-md-40">
 
                                 <div class="fw-social-inline-item">
-                                    <a href="#" target="_blank" rel="nofollow noopener" class="link-hover-anim align-middle" data-link-animate="y">Instagram</a>
+                                    <a href="https://www.instagram.com/businessfor.life/" target="_blank" rel="nofollow noopener" class="link-hover-anim align-middle" data-link-animate="y">Instagram</a>
                                 </div>
 
                                 <div class="fw-social-inline-item">
-                                    <a href="#" target="_blank" rel="nofollow noopener" class="link-hover-anim" data-link-animate="y">Facebook</a>
+                                    <a href="https://web.facebook.com/empoweringlives.org/about" target="_blank" rel="nofollow noopener" class="link-hover-anim" data-link-animate="y">Facebook</a>
                                 </div>
 
                                 <div class="fw-social-inline-item">
-                                    <a href="#" target="_blank" rel="nofollow noopener" class="link-hover-anim" data-link-animate="y">Youtube</a>
+                                    <a href="https://www.youtube.com/channel/UCa3vKEEhEbasv6qZ8G9fb9g" target="_blank" rel="nofollow noopener" class="link-hover-anim" data-link-animate="y">Youtube</a>
                                 </div>
 
                                 <div class="fw-social-inline-item">
-                                    <a href="#" target="_blank" rel="nofollow noopener" class="link-hover-anim" data-link-animate="y">LinkedIn</a>
+                                    <a href="https://www.linkedin.com/company/business-for-life-kenya/" target="_blank" rel="nofollow noopener" class="link-hover-anim" data-link-animate="y">LinkedIn</a>
                                 </div>
                             </div>
                             <!-- End Social Links -->
