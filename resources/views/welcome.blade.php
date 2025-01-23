@@ -134,8 +134,8 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                         <!-- Home Section Content -->
                         <div class="home-content pt-20 pt-md-0 text-center">
 
-                            <h1 class="hs-title-44 font-alt mb-60 mb-sm-40"><span class="wow charsAnimIn" data-splitting="chars">Transforming lives through business training</span></h1>
-                            <h2 class="section-title-tiny font-alt mb-40 mb-sm-30 wow charsAnimIn" data-splitting="chars" style="font-size:30px">Equipping those struggling to survive <br> so that they can build fulfilling and prosperous lives</h2>
+                            <h1 class="hs-title-44 font-alt mb-60 mb-sm-40 font-60"><span class="wow charsAnimIn" data-splitting="chars">Transforming lives through business training</span></h1>
+                            <h2 class="section-title-tiny font-alt mb-40 mb-sm-30 font-30 wow charsAnimI" data-splitting="chars">Equipping those struggling to survive <br> so that they can build fulfilling and prosperous lives</h2>
 
 
 
@@ -185,7 +185,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                             <div class="row mb-80 mb-sm-60" style="position:relative; right:0px !important;">
                                 <div class="col-md-12  col-lg-12 text-center">
                                     {{-- <h2 class="section-title mb-40 mb-xs-30">Let’s have a conversation</h2> --}}
-                                    <p class="section-descr mb-0" style="font-size:50px;">
+                                    <p class="section-descr mb-0 font-60">
                                         Through <span style="color: #c26940;"><strong>hands-on</strong></span> business skills training, Business For Life provides a <span style="color: #c26940;"><strong>hand-up</strong></span> rather than a <span style="color: #c26940;"><strong>hand-out.</strong></span>
                                     </p>
                                 </div>
