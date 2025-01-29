@@ -456,7 +456,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                             <!-- Post Item -->
                             <div class=" post-prev col-md-6 col-lg-4 mt-30 wow fadeInLeft" data-wow-delay="0">
 
-                                            <iframe style="height:400px; width:100%; object-fit:cover; border-radius:10px;" src="https://www.youtube.com/embed/I9DD2105Q90" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                                            <iframe style="height:400px; width:100%; object-fit:cover; border-radius:10px;" src="https://www.youtube.com/embed/wisknQdZqxE" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
                             </div>
@@ -781,7 +781,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
 
                             <!-- Copyright -->
                             <div class="col-lg-3 text-center text-lg-start mb-md-50">
-                                © Business For Life 2024.
+                                © Business For Life {{date('Y')}}.
                             </div>
                             <!-- End Copyright -->
 

@@ -10,9 +10,9 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
         <meta name="author" content="#">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <!-- Favicon -->
-        <link rel="icon" href="{{asset('theme/images/favicon.png')}}" type="image/png" sizes="any">
-        <link rel="icon" href="{{asset('theme/images/favicon.svg')}}" type="image/svg+xml">
+         <!-- Favicon -->
+         <link rel="icon" href="{{asset('theme/images/favicon.png')}}" type="image/png" sizes="any">
+         <link rel="icon" href="{{asset('theme/images/favicon.png')}}" type="image/svg+xml">
 
         <!-- CSS -->
         <link rel="stylesheet" href="{{asset('theme/css/bootstrap.min.css')}}">
@@ -49,7 +49,8 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
         <div class="page" id="top">
 
             <!-- Navigation Panel -->
-             <nav class="main-nav dark transparent stick-fixed wow-menubar">
+            <nav class="main-nav transparent stick-fixed wow-menubar wch-unset">
+             {{-- <nav class="main-nav dark transparent stick-fixed wow-menubar"> --}}
                 <div class="main-nav-sub full-wrapper">
 
                     <!-- Logo  (* Add your text or image to the link tag. Use SVG or PNG image format.
@@ -86,16 +87,16 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
 
                             <!-- Social Links -->
                             <li>
-                                <a href="#" class="no-hover opacity-1 pe-1 text-white"><span class="mn-soc-link mn-soc-link-color text-white" title="Facebook"><i class="fab fa-facebook"></i></span> <span class="mobile-nav-display-i">Facebook</span></a>
-                                <a href="#" class="no-hover opacity-1 pe-1 text-white"><span class="mn-soc-link mn-soc-link-color text-white" title="LinkedIn"><i class="fab fa-linkedin"></i></span> <span class="mobile-nav-display-i">LinkedIn</span></a>
-                                <a href="#" class="no-hover opacity-1 text-white"><span class="mn-soc-link mn-soc-link-color text-white" title="Youtube"><i class="fab fa-youtube"></i></span> <span class="mobile-nav-display-i">Youtube</span></a>
+                                <a href="#" class="no-hover opacity-1 pe-1"><span class="mn-soc-link mn-soc-link-color" title="Facebook"><i class="fab fa-facebook"></i></span> <span class="mobile-nav-display-i">Facebook</span></a>
+                                <a href="#" class="no-hover opacity-1 pe-1"><span class="mn-soc-link mn-soc-link-color" title="LinkedIn"><i class="fab fa-linkedin"></i></span> <span class="mobile-nav-display-i">LinkedIn</span></a>
+                                <a href="#" class="no-hover opacity-1"><span class="mn-soc-link mn-soc-link-color" title="Youtube"><i class="fab fa-youtube"></i></span> <span class="mobile-nav-display-i">Youtube</span></a>
                             </li>
                         </ul>
 
                         <ul class="items-end clearlist local-scroll">
                             <li>
                                 <a href="#contact" class="opacity-1 no-hover">
-                                    <span class="btn btn-mod btn-small btn-border-w btn-circle" data-btn-animate="y">
+                                    <span class="btn btn-mod btn-small btn-border btn-circle" data-btn-animate="y">
                                         <i class="fa fa-donate size-16"></i>
                                         Donate Now
                                     </span>
@@ -113,6 +114,36 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
 
             <main id="main">
 
+                <!-- Home Section -->
+                <section class="page-section bg-gradient-gray-light-1 bg-scroll overflow-hidden">
+
+                    <!-- Background Shape -->
+                    <div class="bg-shape-1 wow fadeIn">
+                        <img class="opacity-05" src="{{asset('theme/images/demo-corporate/bg-shape-1.svg')}}" alt="" />
+                    </div>
+                    <!-- End Background Shape -->
+
+                    <div class="container position-relative pt-10 pt-sm-40 text-center">
+
+                        <div class="row">
+                            <div class="col-lg-10 offset-lg-1">
+
+                                <h1 class="hs-title-9 mb-10">
+                                    <span class="wow charsAnimIn" data-splitting="chars">
+                                        Impact <span class="mark-decoration-3-wrap" style="color:#1A383C"> Stories<b class="mark-decoration-3 wow scalexIn" data-wow-delay="0.5s"></b></span>
+                                    </span>
+                                </h1>
+
+                                {{-- <p class="hs-descr mb-0 wow fadeIn" data-wow-delay="0.2s">Explore captivating web design solutions.</p> --}}
+
+                            </div>
+                        </div>
+
+                    </div>
+
+                </section>
+                <!-- End Home Section -->
+
 
                 <section class="page-section bg-gradient-gray-light-1 bg-scroll overflow-hidden">
 
@@ -124,17 +155,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
 
                     <div class="container position-relative pt-10 pt-sm-40 text-center">
 
-                        <div class="row">
-                            <div class="col-lg-10 offset-lg-1">
 
-                                <h1 class="hs-title-9 mb-10">
-                                    <span class="wow charsAnimIn" data-splitting="chars">
-                                         <span class="mark-decoration-3-wrap" style="color:#1A383C">Impact Stories<b class="wow scalexIn" data-wow-delay="0.5s"></b></span>
-                                    </span>
-                                </h1>
-
-                            </div>
-                        </div>
 
                         <div class="container position-relative" style="padding-top:140px">
 
@@ -153,7 +174,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                  <!-- Post Item -->
                                  <div class=" post-prev col-md-6 col-lg-4 mt-30 wow fadeInLeft" data-wow-delay="0">
 
-                                    <iframe style="height:400px; width:100%; object-fit:cover; border-radius:10px;" src="https://www.youtube.com/embed/I9DD2105Q90" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                                    <iframe style="height:400px; width:100%; object-fit:cover; border-radius:10px;" src="https://www.youtube.com/embed/wisknQdZqxE" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
                                 </div>
@@ -203,7 +224,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
 
             </main>
 
-            <!-- Footer -->
+               <!-- Footer -->
             <footer class="footer-1 bg-dark-1 light-content">
                 <div class="container">
 
@@ -212,7 +233,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
 
                             <!-- Copyright -->
                             <div class="col-lg-3 text-center text-lg-start mb-md-50">
-                                © Business For Life 2024.
+                                © Business For Life {{date('Y')}}.
                             </div>
                             <!-- End Copyright -->
 
@@ -220,19 +241,19 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                             <div class="col-lg-6 fw-social-inline text-center mb-md-40">
 
                                 <div class="fw-social-inline-item">
-                                    <a href="#" target="_blank" rel="nofollow noopener" class="link-hover-anim align-middle" data-link-animate="y">Instagram</a>
+                                    <a href="https://www.instagram.com/businessfor.life/" target="_blank" rel="nofollow noopener" class="link-hover-anim align-middle" data-link-animate="y">Instagram</a>
                                 </div>
 
                                 <div class="fw-social-inline-item">
-                                    <a href="#" target="_blank" rel="nofollow noopener" class="link-hover-anim" data-link-animate="y">Facebook</a>
+                                    <a href="https://web.facebook.com/empoweringlives.org/about" target="_blank" rel="nofollow noopener" class="link-hover-anim" data-link-animate="y">Facebook</a>
                                 </div>
 
                                 <div class="fw-social-inline-item">
-                                    <a href="#" target="_blank" rel="nofollow noopener" class="link-hover-anim" data-link-animate="y">Youtube</a>
+                                    <a href="https://www.youtube.com/channel/UCa3vKEEhEbasv6qZ8G9fb9g" target="_blank" rel="nofollow noopener" class="link-hover-anim" data-link-animate="y">Youtube</a>
                                 </div>
 
                                 <div class="fw-social-inline-item">
-                                    <a href="#" target="_blank" rel="nofollow noopener" class="link-hover-anim" data-link-animate="y">LinkedIn</a>
+                                    <a href="https://www.linkedin.com/company/business-for-life-kenya/" target="_blank" rel="nofollow noopener" class="link-hover-anim" data-link-animate="y">LinkedIn</a>
                                 </div>
                             </div>
                             <!-- End Social Links -->
@@ -255,7 +276,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                         {{-- Made with love for great people. --}}
 
                         <div class="small">
-                            Read <a href="#">Terms & Conditions</a> and <a href="#">Privacy Policy</a>.
+                            Read <a href="{{url('/')}}/terms-and-conditions">Terms & Conditions</a> and <a href="{{url('/')}}/privacy-policy">Privacy Policy</a>.
                         </div>
 
                     </div>
